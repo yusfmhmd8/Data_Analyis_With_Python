@@ -1,0 +1,991 @@
+,Coaster_Name,Location,Status,Manufacturer,Year_Introduced,Latitude,Longitude,Opening_Date_Clean,Type_Main,Speed_Mph,Height_Ft,Inversions_Clean,Gforce_Clean,No
+0,Switchback Railway,Coney Island,Removed,LaMarcus Adna Thompson,1884,40.574,-73.978,1884-06-16,Wood,6,,0,2.9,0
+1,Flip Flap Railway,Sea Lion Park,Removed,Lina Beecher,1895,40.578,-73.979,1895-01-01,Wood,,,1,12,1
+2,Switchback Railway (Euclid Beach Park),"Cleveland, Ohio, United States",Closed,,1896,41.58,-81.57,,Other,,,0,,2
+3,Loop the Loop (Coney Island),Other,Removed,Edwin Prescott,1901,40.5745,-73.978,1/1/1901,Steel,,,1,,3
+4,Loop the Loop (Young's Pier),Other,Removed,Edwin Prescott,1901,39.3538,-74.4342,1/1/1901,Steel,,,1,,4
+5,Cannon Coaster,Coney Island,Removed,George Francis Meyer,1902,40.575,-73.98,1/1/1902,Wood,,,0,,5
+6,Leap-The-Dips,Lakemont Park,Operating,Federal Construction Company,1902,,,1/1/1902,Wood,10,,0,,6
+7,Figure Eight (Euclid Beach Park),"Cleveland, Ohio, United States",Closed,,1904,41.58,-81.57,,Other,,,0,,7
+8,Drop the Dip,Coney Island,Removed,Arthur Jarvis,1907,40.5744,-73.9786,6/6/1907,Other,,,0,,8
+9,Scenic Railway (Euclid Beach Park),"Cleveland, Ohio, United States",Closed,,1907,41.58,-81.57,,Other,,,0,,9
+10,Loop the Loop (Olentangy Park),Olentangy Park,Removed,Lina Beecher,1908,40.0204,-83.0143,1/1/1908,Steel,,,1,,10
+11,Aero Dips,"Cleveland, Ohio, United States",Closed,,1909,41.58,-81.57,,Other,,,0,,11
+12,Backety-Back Scenic Railway,Crystal Beach,Removed,,1909,42.8675,-79.0592,1/1/1909,Wood,10,,0,,12
+13,Racer (1910 roller coaster),Kennywood,Operating,Charlie Mach,1910,40.3869,-79.8619,1/1/1927,Wood,40,,0,,13
+14,Derby Racer,Revere Beach,Removed,Fred W. Pearce,1911,42.42,-70.986,1/1/1911,Wood,,,0,,14
+15,The Great Scenic Railway,Luna Park Melbourne,Operating,LaMarcus Thompson,1912,,,12/1/1912,Wood,37.3,52.5,0,,15
+16,Zippin Pippin,Other,,The Gravity Group,1912,,,,Wood,40,,0,,16
+17,Racing Coaster,"Cleveland, Ohio, United States",Closed,,1913,41.58,-81.57,,Other,,,0,,17
+18,Whirl Pool Dips,Tolchester Beach Park,Removed,,1913,39.214,-76.231,1/1/1913,Wood,,,0,,18
+19,Green Dragon (Lake Compounce),Lake Compounce,Removed,,1914,41.642,-72.923,1/1/1914,Wood,,,0,,19
+20,The Wild One (roller coaster),Six Flags America,,Dinn Corporation,1917,38.9092,-76.7725,,Wood,53,,0,,20
+21,Jack Rabbit (Clementon Park),Clementon Park,Removed,Philadelphia Toboggan Coasters,1919,39.8041,-74.9844,1/1/1919,Wood,,,0,,21
+22,Jack Rabbit (Kennywood),Kennywood,Operating,Harry C. Baker,1920,40.3867,-79.8628,1/1/1920,Wood,45,,0,,22
+23,Jack Rabbit (Seabreeze),Seabreeze Amusement Park,Operating,Harry C. Baker,1920,43.2316,-77.5432,1/1/1920,Wood,42,,0,,23
+24,Scenic Railway (roller coaster),Dreamland Margate,Operating,,1920,51.3853,1.3775,7/3/1920,Wood,35,,0,,24
+25,Roller Coaster (Lagoon),Lagoon Amusement Park,Operating,,1921,40.9849,-111.8951,7/15/1921,Wood,45,62,0,,25
+26,Big Dipper (Blackpool Pleasure Beach),Blackpool Pleasure Beach,Operating,William Strickler,1923,53.7892,-3.0569,8/23/1923,Wood,40,,0,3.7,26
+27,Wild Cat (Hersheypark),Hersheypark,Removed,Philadelphia Toboggan Coasters,1923,40.2882,-76.6535,6/16/1923,Wood,,,0,,27
+28,The Bobs (roller coaster),Riverview Park,Removed,Prior and Church,1924,41.9407,-87.6924,1/1/1924,Wood,50,,0,,28
+29,Giant Dipper,Santa Cruz Beach Boardwalk,Operating,Arthur Looff,1924,36.9647,-122.0153,5/17/1924,Wood,55,,0,,29
+30,Pippin (roller coaster),Kennywood,Operating,,1924,40.3889,-79.865,1/1/1968,Wood,55,,0,,30
+31,The Thriller (roller coaster),"Cleveland, Ohio, United States",Closed,,1924,41.58,-81.57,,Other,,,0,,31
+32,Thunderhawk (Dorney Park),Dorney Park & Wildwater Kingdom,Operating,Philadelphia Toboggan Coasters,1924,40.5798,-75.5355,3/30/1924,Wood,45,,0,,32
+33,Big Dipper (Geauga Lake),Geauga Lake,Removed,,1925,41.3491,-81.378,1/1/1925,Wood,32,,0,,33
+34,Cyclone (Revere Beach),Revere Beach,Removed,Traver Engineering,1925,42.42,-70.986,1/1/1925,Wood,45,,0,,34
+35,Giant Dipper (Belmont Park),Other,Operating,"Frank Prior, Fredrick Church",1925,,,7/4/1925,Wood,48,,0,,35
+36,Jazz Railway,Rocky Glen Park,Removed,Traver Engineering,1925,41.3533,-75.7059,1/1/1925,Wood,,,0,,36
+37,Thunderbolt (1925 roller coaster),Coney Island,Removed,,1925,40.5739,-73.9825,1/1/1925,Wood,,,0,,37
+38,Thunderbolt (Savin Rock),Savin Rock,Removed,Traver Engineering,1925,41.257,-72.95,5/5/1925,Wood,,,0,,38
+39,Crystal Beach Cyclone,Crystal Beach Park,Removed,Traver Engineering,1926,42.8617,-79.0598,1/1/1926,Wood,60,,0,4,39
+40,Sesquicentennial Cyclone,Sesquicentennial Exposition,Removed,Traver Engineering,1926,39.9087,-75.1733,5/31/1926,Wood,,,0,,40
+41,Tornado (Coney Island),Coney Island,Removed,,1926,40.574,-73.979,1/1/1926,Wood,,,0,,41
+42,Coney Island Cyclone,"Luna Park, Coney Island",Operating,,1927,40.5742,-73.9778,6/26/1927,Other,60,,0,3.75,42
+43,Cyclone (Palisades Amusement Park),Palisades Amusement Park,Removed,Traver Engineering,1927,40.8281,-73.9778,9/10/1927,Wood,,,0,,43
+44,Lightning (Revere Beach),Revere Beach,Removed,Traver Engineering,1927,42.42,-70.986,7/2/1927,Wood,,,0,,44
+45,Racer (Kennywood),Kennywood,Operating,Charlie Mach,1927,40.3869,-79.8619,1/1/1927,Wood,40,,0,,45
+46,Wildcat (Lake Compounce),Lake Compounce,Operating,Philadelphia Toboggan Coasters,1927,41.6408,-72.9231,1/1/1927,Wood,48,,0,,46
+47,Zip (roller coaster),Oaks Amusement Park,Removed,Traver Engineering,1927,45.473,-122.6606,1/1/1927,Wood,,,0,,47
+48,Airplane Coaster,Playland,Removed,Frank W. Darling,1928,40.9658,-73.6739,5/26/1928,Wood,40,,0,,48
+49,Monta?a Suiza,Monte Igueldo Amusement Park,Operating,,1928,43.3207,-2.0107,1/1/1928,Other,31,,0,,49
+50,Dragon Coaster (Playland),Playland,Operating,,1929,40.9675,-73.6739,1/1/1929,Wood,,78.7,0,,50
+51,Flying Turns (Euclid Beach Park),"Cleveland, Ohio, United States",Closed,,1930,41.58,-81.57,,Other,,,0,,51
+52,Yankee Cannonball,Canobie Lake Park,Operating,Philadelphia Toboggan Coasters,1930,42.7953,-71.2492,1/1/1930,Wood,35,65,0,,52
+53,Roller Coaster (Great Yarmouth Pleasure Beach),Great Yarmouth Pleasure Beach,Operating,,1932,52.5928,1.7361,5/1/1932,Wood,45,,0,,53
+54,Nickelodeon Streak,Blackpool Pleasure Beach,Operating,,1933,53.7908,-3.0544,1/1/1933,Wood,35,,0,3,54
+55,Zipper Dipper,Blackpool Pleasure Beach,Operating,,1934,53.7902,-3.0539,1/1/1934,Other,,,0,,55
+56,Big Dipper (Luna Park Sydney),Other,,,1935,,,,Wood,58,,0,,56
+57,Grand National (roller coaster),Blackpool Pleasure Beach,Closed,,1935,53.7919,-3.0531,1/1/1935,Wood,40,,0,3.2,57
+58,Blue Streak (Conneaut Lake),Conneaut Lake Park,Closed,,1937,41.6349,-80.318,5/23/1938,Wood,50,,0,,58
+59,Rollo Coaster,Idlewild and Soak Zone,Operating,Philadelphia Toboggan Coasters,1938,40.2602,-79.2814,1/1/1938,Wood,25,,0,,59
+60,Cyclone (Lakeside Amusement Park),Lakeside Amusement Park,Operating,,1940,39.7808,-105.054,5/17/1940,Wood,55,,0,,60
+61,Flyer Comet (Whalom Park),Whalom Park,Removed,National Amusement Devices,1940,42.5762,-71.746,1/1/1940,Wood,40,,0,,61
+62,Giant Skyrocket,Other,,Lake Contrary Amusement Park,1941,,,,Wood,,,0,,62
+63,Thunderbolt (Six Flags New England),Six Flags New England,Operating,Joseph E. Drambour,1941,42.0389,-72.6133,1/1/1941,Wood,40,,0,,63
+64,Comet (Hersheypark),Hersheypark,Operating,Philadelphia Toboggan Coasters,1946,40.2864,-76.6556,1/1/1946,Wood,50,,0,,64
+65,Comet (Lincoln Park),Lincoln Park,Removed,National Amusement Devices,1946,41.6362,-71.0432,10/1/1946,Wood,55,,0,,65
+66,Little Dipper (Conneaut Lake Park),Conneaut Lake Park,Operating,Allan Herschell Company,1950,41.6343,-80.3165,1/1/1950,Steel,,,0,,66
+67,Little Dipper (Six Flags Great America),Other,,Philadelphia Toboggan Coasters,1950,,,,Wood,25,,0,,67
+68,Big Dipper (Battersea Park),Battersea Park,Removed,,1951,51.4794,-0.1569,1/1/1951,Wood,,49.2,0,,68
+69,Comet (Waldameer),Waldameer Park,Operating,Philadelphia Toboggan Coasters,1951,42.1077,-80.1568,1/1/1951,Wood,25,,0,,69
+70,Vuoristorata,Linnanm?ki,Operating,"Linnanm?ki, led by Svend Jarlstr?m",1951,60.1886,24.9417,7/13/1951,Wood,37.3,78.7,0,,70
+71,Little Dipper (Memphis Kiddie Park),Memphis Kiddie Park,Operating,Allan Herschell Company,1952,41.4405,-81.7577,4/1/1952,Steel,,,0,,71
+72,High Speed Thrill Coaster,Knoebels Amusement Resort,Removed,,1955,40.8801,-76.5027,1/1/1955,Steel,,,0,,72
+73,Sea Dragon (roller coaster),Rides At Adventure Cove,Operating,Philadelphia Toboggan Coasters,1956,40.1544,-83.1203,1/1/1956,Wood,25,,0,,73
+74,Big Dipper (Camden Park),Camden Park,Operating,National Amusement Devices,1958,,,1/1/1958,Other,,,0,,74
+75,Wild Mouse (Blackpool Pleasure Beach),Blackpool Pleasure Beach,Removed,Blackpool Pleasure Beach,1958,53.7913,-3.0561,1/1/1958,Wood,35,,0,1.8,75
+76,Wooden Roller Coaster (Playland),Playland,Not Currently Operating,,1958,49.2824,-123.0352,1/1/1958,Wood,49.7,,0,,76
+77,Matterhorn Bobsleds,Other,Operating,Arrow Development,1959,,,6/14/1959,Steel,27,,0,,77
+78,Tornado (Wedgewood Village Amusement Park),"63rd and N.W. Expressway, Oklahoma City, Oklahoma, U.S.",Closed,,1961,,,,Other,,,0,,78
+79,Blue Streak (Cedar Point),Cedar Point,Operating,Philadelphia Toboggan Coasters,1964,41.4799,-82.6826,5/23/1964,Wood,40,,0,,79
+80,Jetstream (roller coaster),Riverview Park,Removed,Philadelphia Toboggan Coasters,1964,41.9418,-87.6907,1/1/1964,Wood,,,0,,80
+81,Monta?a Rusa (La Feria Chapultepec M?gico),La Feria Chapultepec M?gico,Removed,National Amusement Devices,1964,19.4164,-99.1956,10/22/1964,Wood,,,0,,81
+82,Giant Coaster (Fuji-Q Highland),Fuji-Q Highland,Removed,Sansei Technologies,1966,35.487,138.78,1/1/1966,Steel,49.7,131.2,0,,82
+83,Runaway Mine Train (Six Flags Over Texas),Six Flags Over Texas,Operating,Arrow Development,1966,32.7585,-97.0685,7/23/1966,Steel,35,,0,,83
+84,Swamp Fox (roller coaster),Family Kingdom Amusement Park,Operating,Philadelphia Toboggan Coasters,1966,33.6825,-78.8917,1/1/1966,Wood,50,,0,,84
+85,Cannon Ball (roller coaster),Lake Winnepesaukah,Operating,Philadelphia Toboggan Coasters,1967,,,1/1/1967,Wood,50,,0,,85
+86,Dahlonega Mine Train,Six Flags Over Georgia,Operating,Arrow Dynamics,1967,33.7676,-84.5519,6/16/1967,Steel,29,,0,,86
+87,Alpine Sleigh Ride,Other,Removed,,1968,,,6/1/1968,Other,,,0,,87
+88,Thunderbolt (Kennywood),Kennywood,Operating,,1968,40.3889,-79.865,1/1/1968,Wood,55,,0,,88
+89,Cedar Creek Mine Ride,Cedar Point,Operating,Arrow Development,1969,41.4847,-82.6904,5/24/1969,Steel,42,,0,,89
+90,Mini Mine Train (Six Flags Over Texas),"Arlington, Texas, U.S.",Operating,,1969,32.7557,-97.0702,,Other,,,0,,90
+91,Serpent (roller coaster),Six Flags AstroWorld,Removed,Arrow Dynamics,1969,29.676,-95.407,1/1/1969,Steel,14,,0,,91
+92,Daidarasaurus,Expoland,Removed,Sansei Technologies,1970,34.8044,135.5359,1/1/1970,Steel,44.7,91.9,0,,92
+93,Galaxi,Other,In Production,,1970,,,,Other,,,0,,93
+94,Jet Star (Casino Pier),Casino Pier,Removed,Anton Schwarzkopf,1970,39.9426,-74.0692,1/1/1970,Steel,31.1,,0,,94
+95,Wildcat (Jolly Roger Amusement Park),Other,,Anton Schwarzkopf,1970,,,,Steel,,,0,,95
+96,Gold Rusher,Six Flags Magic Mountain,Operating,Arrow Development,1971,34.424,-118.5985,5/29/1971,Steel,35,,0,3.4,96
+97,Magic Flyer (roller coaster),Other,,Bradley and Kaye,1971,,,,Steel,10,,0,2.1,97
+98,River King Mine Train,Six Flags St. Louis,Operating,Arrow Dynamics,1971,38.5155,-90.6738,6/5/1971,Steel,37,,0,,98
+99,Excalibur (Six Flags AstroWorld),Six Flags AstroWorld,Removed,Arrow Dynamics,1972,29.675,-95.407,1/1/1972,Steel,46,,0,,99
+100,Fire in the Hole (Silver Dollar City),Silver Dollar City,Operating,Herschend Family Entertainment,1972,36.6703,-93.3407,1/1/1972,Steel,27,,0,,100
+101,Jumbo Jet (Cedar Point),Other,,Anton Schwarzkopf,1972,,,,Steel,,,0,,101
+102,The Racer (Kings Island),Other,Operating,Philadelphia Toboggan Coasters,1972,39.3437,-84.2647,4/29/1972,Wood,53,,0,,102
+103,Rock n' Roller Coaster (Opryland),Other,,Arrow Development,1972,,,,Steel,45,,0,,103
+104,Scooby-Doo (Kings Island),Kings Island,Operating,Philadelphia Toboggan Coasters,1972,39.3432,-84.2693,1/1/1972,Wood,35,,0,,104
+105,Toboggan (Hersheypark),Hersheypark,Removed,Chance Rides,1972,40.2866,-76.6561,1/1/1972,Steel,,,0,,105
+106,Carolina Goldrusher,Carowinds,Operating,Arrow Dynamics,1973,,,3/31/1973,Steel,30,,0,2.4,106
+107,Great American Scream Machine (Six Flags Over Georgia),Six Flags Over Georgia,Operating,Philadelphia Toboggan Coasters,1973,33.7658,-84.5514,3/31/1973,Wood,57,,0,3.7,107
+108,Schussboomer,Worlds of Fun,Removed,Anton Schwarzkopf,1973,39.1773,-94.489,5/26/1973,Steel,,,0,,108
+109,Big Fury,Six Flags Great Adventure,Removed,Pinfari,1974,40.138,-74.441,1/1/1974,Steel,,,0,,109
+110,Mini-Comet,Hersheypark,Removed,B.A. Schiff & Associates,1974,40.288,-76.657,5/10/1974,Steel,,15,0,,110
+111,Runaway Mine Train (Six Flags Great Adventure),"Jackson, New Jersey, United States",Operating,,1974,40.1377,-74.4405,,Other,,,0,,111
+112,Scooby-Doo (Kings Dominion),Kings Dominion,Operating,Philadelphia Toboggan Coasters,1974,37.8405,-77.4422,1/1/1974,Wood,35,,0,,112
+113,Trailblazer (roller coaster),Hersheypark,Operating,Arrow Development,1974,40.2892,-76.6535,5/14/1974,Steel,35,,0,,113
+114,Corkscrew (Knott's Berry Farm),Other,,Arrow Development,1975,,,,Steel,46,,2,,114
+115,Glissade (roller coaster),Busch Gardens Williamsburg,Removed,Anton Schwarzkopf,1975,37.235,-76.644,1/1/1975,Steel,,,0,,115
+116,Racer 75,Other,Operating,Philadelphia Toboggan Coasters,1975,37.8371,-77.4449,5/3/1975,Wood,56,,0,4.2,116
+117,Rockin' Roller,Six Flags St. Louis,Removed,Bradley and Kaye,1975,38.5128,-90.675,1/1/1975,Steel,,,0,,117
+118,Scooby-Doo (Carowinds),Carowinds,Operating,Philadelphia Toboggan Coasters,1975,35.101,-80.9394,1/1/1975,Wood,36,,0,,118
+119,Space Mountain (Magic Kingdom),Other,Operating,Arrow Development,1975,28.4192,-81.5772,1/15/1975,Steel,27,,0,3.7,119
+120,Wabash Cannonball (roller coaster),Opryland USA,Removed,Arrow Development,1975,36.2089,-86.6984,1/1/1975,Steel,50,,2,,120
+121,Alpen Blitz,Six Flags Great Adventure,Removed,Anton Schwarzkopf,1976,40.1371,-74.4411,1/1/1976,Steel,10,,0,1,121
+122,Corkscrew (Cedar Point),Cedar Point,Operating,Arrow Development,1976,41.4836,-82.6853,5/15/1976,Steel,48,,3,,122
+123,Demon (roller coaster),Other,,Arrow Dynamics,1976,,,,Steel,50,,4,,123
+124,Extremeroller,Worlds of Fun,Removed,Arrow Dynamics,1976,39.1728,-94.4892,1/1/1976,Steel,50,,2,,124
+125,Gulf Coaster,Other,,Allan Herschell Company,1976,,,,Steel,,,0,,125
+126,High Roller (Valleyfair),Valleyfair,Operating,Rauenhorst Corporation,1976,44.8006,-93.4578,1/1/1976,Wood,50,,0,3.2,126
+127,Jet Star 2 (Lagoon),Lagoon Amusement Park,Operating,Anton Schwarzkopf,1976,40.9869,-111.8936,1/1/1976,Steel,,,0,,127
+128,Jumbo Jet (Morey's Piers),Morey's Piers,Removed,Anton Schwarzkopf,1976,38.986,-74.809,1/1/1976,Steel,50,,0,,128
+129,Lil' Thunder,Six Flags Great Adventure,Removed,Molina & Sons,1976,40.138,-74.44,1/1/1976,Steel,5,,0,,129
+130,Mild Thing,Valleyfair,Removed,Allan Herschell Company,1976,44.7996,-93.4575,1/1/1976,Steel,,,0,,130
+131,Python (Busch Gardens Tampa Bay),Busch Gardens Tampa Bay,Removed,Arrow Development,1976,28.039,-82.4251,7/1/1976,Steel,40,,2,,131
+132,The New Revolution (roller coaster),Six Flags Magic Mountain,Operating,Anton Schwarzkopf,1976,34.4228,-118.5964,5/8/1976,Steel,55,,1,4.9,132
+133,Screamin' Eagle,Six Flags St. Louis,Operating,Philadelphia Toboggan Coasters,1976,38.5164,-90.6761,4/10/1976,Wood,62,,0,,133
+134,Texas Cyclone,Six Flags AstroWorld,Removed,Frontier Construction Company,1976,29.6767,-95.4097,6/12/1976,Wood,,,0,,134
+135,Thunder Road (roller coaster),Other,Removed,Philadelphia Toboggan Coasters,1976,35.1004,-80.9426,4/3/1976,Wood,58,,0,3.4,135
+136,Whizzer (roller coaster),Other,,Anton Schwarzkopf,1976,,,,Other,42,,0,3,136
+137,Double Loop (Geauga Lake),Geauga Lake,Removed,Arrow Dynamics,1977,41.3528,-81.3774,1/1/1977,Steel,36,,2,,137
+138,Screamin' Demon,Other,,Arrow Dynamics,1977,,,,Steel,45,,1,4,138
+139,Shuttle Loop,Other,Discontinued,Anton Schwarzkopf,1977,,,,Other,,,2,,139
+140,SooperDooperLooper,Hersheypark,Operating,Anton Schwarzkopf,1977,40.2864,-76.6536,7/4/1977,Steel,45,,1,,140
+141,Space Mountain (Disneyland),Disneyland,Operating,Arrow Development (1977–2003)Dynamic Structures (2005–present)]],1977,33.811,-117.9174,5/27/1977,Steel,35,,0,,141
+142,Steeplechase (Blackpool Pleasure Beach),Blackpool Pleasure Beach,Operating,Arrow Dynamics,1977,53.7888,-3.0558,1/1/1977,Steel,,,0,,142
+143,Arkansas Twister,Magic Springs and Crystal Falls,Operating,Michael Black and Associates,1978,34.5213,-93.0143,1/1/1978,Wood,50,,0,,143
+144,Colossus (Six Flags Magic Mountain),Six Flags Magic Mountain,Operating,Rocky Mountain Construction,1978,34.4278,-118.5975,5/23/2015,Steel,57,,2,,144
+145,Gemini (roller coaster),Other,Operating,Arrow Dynamics,1978,41.4863,-82.6897,6/17/1978,Steel,60,,0,,145
+146,Greezed Lightnin' (Six Flags Astroworld),Other,Discontinued,Anton Schwarzkopf,1978,,,,Other,,,2,,146
+147,Lightnin' Loops,Other,,Arrow Development,1978,40.1358,-74.4437,,Steel,45,,1,4,147
+148,Loch Ness Monster (roller coaster),Busch Gardens Williamsburg,Operating,Arrow Development,1978,37.2343,-76.646,6/6/1978,Steel,60,,2,3.5,148
+149,Montezooma's Revenge,Knott's Berry Farm,Operating,Anton Schwarzkopf,1978,33.8456,-117.999,5/21/1978,Steel,55,,2,,149
+150,Schweizer Bobbahn,Heide Park,Operating,Mack Rides,1978,,,8/19/1978,Steel,32.9,,0,,150
+151,Shock Wave (Six Flags Over Texas),Six Flags Over Texas,Operating,Anton Schwarzkopf,1978,32.7589,-97.0706,4/22/1978,Steel,60,,2,5.9,151
+152,The Riddler Mindbender,Six Flags Over Georgia,Operating,Anton Schwarzkopf,1978,33.7703,-84.5475,3/31/1978,Steel,50,,2,,152
+153,Tornado (Adventureland),Adventureland (Iowa),Operating,Frontier Construction Company,1978,41.6515,-93.5025,7/4/1978,Wood,58,,0,,153
+154,Wild Rider,Six Flags Great Adventure,Removed,Anton Schwarzkopf,1978,40.1363,-74.4416,1/1/1978,Steel,,,0,,154
+155,The Beast (roller coaster),Kings Island,Operating,Kings Island,1979,39.3402,-84.266,4/14/1979,Wood,64.8,,0,3.6,155
+156,Big Thunder Mountain Railroad,Other,,"Arrow Development (California and Florida)Dynamic Structures (2014 California rebuild)Vekoma (Paris, Tokyo)",1979,,,,Steel,35,,0,,156
+157,Big Thunder Mountain Railroad (Disneyland),Other,,"Arrow Development (California and Florida)Dynamic Structures (2014 California rebuild)Vekoma (Paris, Tokyo)",1979,,,,Steel,35,,0,,157
+158,Corkscrew (Michigan's Adventure),"Muskegon, Michigan, United States",Operating,,1979,43.3474,-86.2789,,Other,,,0,,158
+159,Momonga Standing and Loop Coaster,Yomiuriland,Removed,TOGO,1979,35.6245,139.5193,1/1/1979,Steel,46.6,,1,,159
+160,Revolution (Blackpool Pleasure Beach),Blackpool Pleasure Beach,Operating,Arrow Development,1979,53.7899,-3.0551,1/1/1979,Steel,45,,2,4,160
+161,Rolling Thunder (roller coaster),Other,Removed,William Cobb & Associates,1979,40.1394,-74.4343,1/1/1979,Wood,56,,0,,161
+162,WildCat (Cedar Point),Cedar Point,Removed,Anton Schwarzkopf,1979,41.4817,-82.685,1/1/1979,Steel,40,,0,,162
+163,Wilderness Run,Cedar Point,Operating,Intamin,1979,41.4856,-82.6886,1/1/1979,Steel,6,,0,,163
+164,Carolina Cyclone,Carowinds,Operating,Arrow Dynamics,1980,35.1042,-80.9436,3/22/1980,Steel,41,,4,3.5,164
+165,Corkscrew (Alton Towers),Alton Towers,Removed,Vekoma,1980,52.9847,-1.8904,4/4/1980,Other,40,,2,3.1,165
+166,Corkscrew (Valleyfair),Valleyfair,Operating,Arrow Dynamics,1980,44.7996,-93.4563,1/1/1980,Steel,50,,3,3.5,166
+167,Judge Roy Scream,Six Flags Over Texas,Operating,William Cobb & Associates,1980,32.7554,-97.0673,3/1/1980,Wood,45,,0,4,167
+168,Orient Express (roller coaster),Worlds of Fun,Removed,Arrow Dynamics,1980,39.1761,-94.4883,4/4/1980,Steel,50,,4,3.5,168
+169,Scorpion (roller coaster),Busch Gardens Tampa Bay,Operating,Anton Schwarzkopf,1980,28.0375,-82.4233,5/16/1980,Steel,41,,1,3.5,169
+170,Shuttle Loop (Nagashima Spa Land),Nagashima Spa Land,Operating,Anton Schwarzkopf,1980,35.0303,136.7308,1/1/1980,Steel,57,,2,,170
+171,The Beastie (Kings Island),Kings Island,Operating,Philadelphia Toboggan Coasters,1980,39.3432,-84.2693,1/1/1972,Wood,35,,0,,171
+172,American Eagle (roller coaster),Other,Operating,Intamin,1981,42.3646,-87.9336,5/23/1981,Wood,66,,0,,172
+173,The Bat (Kings Island; opened 1981),Kings Island,Removed,Arrow Development,1981,39.3408,-84.2646,4/26/1981,Steel,34,,0,,173
+174,Colossus (Playcenter S?o Paulo),Other,,Anton Schwarzkopf,1981,,,,Steel,52,,2,,174
+175,Dragon Fyre,Canada's Wonderland,Operating,Arrow Dynamics,1981,43.8445,-79.5407,1/1/1981,Steel,49.7,78.1,4,,175
+176,Ghoster Coaster (Canada's Wonderland),Canada's Wonderland,Operating,Taft Broadcasting,1981,43.8438,-79.546,5/23/1981,Wood,34.8,41,0,,176
+177,Hoot N Holler,Six Flags Darien Lake,Operating,Zierer,1981,42.9272,-78.3823,1/1/1981,Steel,16.2,,0,,177
+178,Mighty Canadian Minebuster,Canada's Wonderland,Operating,Canada's Wonderland,1981,43.8392,-79.5419,1/1/1981,Wood,55.9,89.9,0,,178
+179,Python (Efteling),Efteling,Operating,Vekoma,1981,51.6469,5.0536,4/12/1981,Steel,46.6,95.1,4,3.5,179
+180,Super Manège,La Ronde,Removed,Vekoma,1981,45.5238,-73.5325,1/1/1981,Steel,39.8,75.5,2,,180
+181,Thunder Run (Canada's Wonderland),Canada's Wonderland,Operating,Mack Rides,1981,43.8427,-79.5423,5/23/1981,Steel,39.8,32.8,0,,181
+182,Wilde Beast,Canada's Wonderland,Operating,Taft Broadcasting Company,1981,43.8441,-79.5432,1/1/1981,Wood,55.9,82,0,,182
+183,Grizzly (Kings Dominion),Kings Dominion,Operating,Taft Broadcasting Company,1982,37.8375,-77.4471,3/27/1982,Wood,51,,0,,183
+184,Looping Star (Nagashima Spa Land),Nagashima Spa Land,Operating,Anton Schwarzkopf,1982,35.0306,136.7323,1/1/1982,Steel,40,,1,,184
+185,Sea Viper (roller coaster),Sea World,Removed,Arrow Dynamics,1982,-27.9569,153.4265,9/17/1982,Steel,43.5,91.9,3,,185
+186,Thrillseeker (roller coaster),Sea World,Removed,S.D.C.,1982,-27.9567,153.425,1/1/1982,Steel,40.4,45.9,0,,186
+187,Thunderbolt (Dreamworld),Dreamworld,Removed,Sanoyas Hishino Meisho,1982,-27.8651,153.3165,4/1/1982,Steel,54.1,101.7,2,,187
+188,Viper (Six Flags Darien Lake),Six Flags Darien Lake,Operating,Arrow Dynamics,1982,42.9283,-78.3817,5/29/1982,Steel,50,,5,,188
+189,Vortex (Calaway Park),Calaway Park,Operating,Arrow Dynamics,1982,51.0875,-114.3594,1/1/1982,Steel,,,2,,189
+190,Alpen Blitz (Parque de la Ciudad),"Argentina, Villa Soldati, Buenos Aires",,,1983,,,,Other,,,0,,190
+191,Beastie (Alton Towers),Alton Towers,Removed,Pinfari,1983,52.9893,-1.8945,1/1/1983,Steel,17,,0,,191
+192,Black Hole (roller coaster),Alton Towers,Removed,Anton Schwarzkopf,1983,52.9873,-1.8953,1/1/1983,Steel,32,,0,2.9,192
+193,Colossus the Fire Dragon,Lagoon Amusement Park,Operating,Anton Schwarzkopf,1983,40.9836,-111.8951,1/1/1983,Steel,55,,2,4.9,193
+194,Cyclone (Six Flags New England),Six Flags New England,Operating,Rocky Mountain Construction,1983,42.0403,-72.6156,5/24/2015,Steel,55,,3,,194
+195,Dragon Mountain,Marineland of Canada,Operating,Arrow Huss,1983,43.0613,-79.0804,7/16/1983,Steel,50,,4,,195
+196,Flitzer,Morey's Piers,Removed,Zierer,1983,38.9893,-74.8033,1/1/1983,Steel,,,0,,196
+197,Moonsault Scramble,Fuji-Q Highland,Removed,Meisho Amusement Machines,1983,35.487,138.78,6/24/1983,Steel,55.9,,2,6.5,197
+198,Sky Screamer (Six Flags AstroWorld),Six Flags AstroWorld,,Intamin,1983,29.675,-95.407,1/1/1983,Other,,,0,4.5,198
+199,Space Mountain (Tokyo Disneyland),Other,Operating,,1983,,,4/15/1983,Steel,30,,0,,199
+200,Timberline Twister,"8039 Beach BoulevardBuena Park, California 90620, U.S.",,,1983,33.8442,-118.0003,,Other,,,0,,200
+201,Alpenexpress Enzian,Europa-Park,Operating,Mack Rides,1984,,,1/1/1984,Steel,28,19.7,0,,201
+202,Alpine Bobsled,Other,,Intamin,1984,,,,Steel,35,,0,,202
+203,Astro Storm,Other,,Zierer,1984,,,,Steel,37,,0,2.6,203
+204,Big Bad Wolf (roller coaster),Busch Gardens Williamsburg,Removed,Arrow Dynamics,1984,37.2335,-76.6449,6/15/1984,Steel,48,,0,4,204
+205,Boomerang (roller coaster),Other,In Production,Vekoma,1984,,,,Other,47,116.5,6,,205
+206,Flying Fish (roller coaster),Thorpe Park,Operating,Mack Rides,1984,51.4052,-0.5139,1/1/1984,Steel,16.8,,0,2.1,206
+207,King Cobra (roller coaster),Kings Island,Removed,TOGO,1984,39.345,-84.2659,4/22/1984,Steel,50,,1,,207
+208,Sea Serpent (Morey's Piers),Morey's Piers,Operating,Vekoma,1984,38.9858,-74.8097,1/1/1984,Steel,47,,3,5.2,208
+209,Steamin' Demon,Great Escape,Operating,Arrow Dynamics,1984,43.3513,-73.6927,5/26/1984,Steel,45,,3,,209
+210,Tig'rr Coaster,Indiana Beach,Operating,Anton Schwarzkopf,1984,40.7903,-86.7706,1/1/1984,Steel,31.1,,0,,210
+211,Ultra Twister (Nagashima Spa Land),Nagashima Spa Land,Operating,TOGO,1984,35.0285,136.7326,1/1/1989,Steel,,,3,,211
+212,La Vibora,Other,,Intamin,1984,,,,Steel,32,,0,,212
+213,XLR-8,Six Flags AstroWorld,Removed,Arrow Dynamics,1984,29.6748,-95.4056,5/12/1984,Steel,34.1,,0,,213
+214,The Bush Beast,Wonderland Sydney,Removed,Taft Broadcasting,1985,-33.8008,150.8512,12/7/1985,Wood,55.9,90.2,0,,214
+215,Disaster Transport,Cedar Point,Removed,Intamin,1985,41.4811,-82.6794,1/1/1985,Steel,40,,0,2.7,215
+216,Flashback (Six Flags Magic Mountain),Other,,Intamin,1985,,,,Steel,35,,0,3,216
+217,Freestyle (roller coaster),Other,,TOGO,1985,,,,Steel,51,87.9,1,,217
+218,Kikkerachtbaan,Duinrell,Operating,Zierer,1985,52.1466,4.379,1/1/1985,Steel,22.4,26.2,0,,218
+219,Klondike Gold Mine (roller coaster),Other,,Pinfari,1985,,,,Steel,,,1,,219
+220,Shaman (roller coaster),Gardaland,Operating,Vekoma,1985,45.4567,10.7072,1/1/1985,Steel,43.5,,4,,220
+221,Mindbender (Galaxyland),Galaxyland,closed for maintenance as of july 30 no reopening date known,Anton Schwarzkopf,1985,53.5236,-113.6203,12/20/1985,Steel,60,145,3,5.2,221
+222,Le Monstre,Other,Operating,Martin & Vleminckx,1985,45.525,-73.5333,7/20/1985,Wood,59.7,,0,,222
+223,Phoenix (roller coaster),Knoebels Amusement Resort,Operating,Philadelphia Toboggan Coasters,1985,40.8783,-76.5064,6/15/1985,Wood,45,,0,,223
+224,Steel First,Other,,Allan Herschell Company,1985,,,1/1/1985,Steel,,,0,,224
+225,Swiss Bob,Efteling,Removed,Intamin,1985,51.648,5.0474,4/4/1985,Steel,37.3,,0,,225
+226,Texas Tornado (roller coaster),Wonderland Park (Texas),Operating,Hopkins Rides,1985,35.2437,-101.8321,1/1/1985,Steel,,,2,,226
+227,The Beastie (Wonderland Sydney),"Eastern Creek, New South Wales, New South Wales, Australia",,,1985,-33.8012,150.8475,,Other,,,0,,227
+228,Wild Mouse (Idlewild),Idlewild and Soak Zone,Operating,Vekoma,1985,40.2598,-79.2799,1/1/1985,Steel,30,,0,,228
+229,Eureka Mountain Mine Ride,Dreamworld,Removed,HyFab,1986,-27.8626,153.3158,12/11/1986,Steel,29.8,39.4,0,,229
+230,The Grizzly,California's Great America,Operating,Kings Island,1986,37.393,-121.9714,1/1/1986,Wood,55,,0,,230
+231,Shockwave (Kings Dominion),Kings Dominion,Removed,TOGO,1986,37.8386,-77.4447,3/23/1986,Steel,50,,1,,231
+232,Silver Bullet (Frontier City),Other,,Anton Schwarzkopf,1986,,,,Steel,47.8,,1,,232
+233,Ultra Twister (Six Flags),Other,,TOGO,1986,,,,Steel,44,,3,,233
+234,The Bat (Canada's Wonderland),Other,,,1987,43.8442,-79.5414,,Other,,,0,,234
+235,Big Thunder Mountain Railroad (Tokyo Disneyland),Other,,"Arrow Development (California and Florida)Dynamic Structures (2014 California rebuild)Vekoma (Paris, Tokyo)",1987,,,,Steel,35,,0,,235
+236,Canobie Corkscrew,Canobie Lake Park,Removed,Arrow Development,1987,42.7935,-71.2499,1/1/1975,Steel,45,,2,,236
+237,Dreamcatcher (roller coaster),Bobbejaanland,Operating,Vekoma,1987,51.1993,4.909,1/1/1987,Steel,,82,0,,237
+238,Iron Dragon (roller coaster),Cedar Point,Operating,Arrow Dynamics,1987,41.4822,-82.6852,6/11/1987,Steel,40,,0,,238
+239,Knightmare (Camelot),Other,Removed,Zierer,1987,,,,Other,40,,0,5,239
+240,Lisebergbanan,Liseberg,Operating,Zierer,1987,57.695,11.9925,4/18/1987,Steel,49.7,147.6,0,3,240
+241,Raptor Attack,Lightwater Valley,Closed in 2021,Anton Schwarzkopf,1987,54.1739,-1.5687,4/2/1987,Steel,40,,0,,241
+242,Runaway Train (roller coaster),Chessington World of Adventures,Operating,Mack Rides,1987,51.3494,-0.318,6/7/1987,Steel,22.4,15.4,0,,242
+243,Scorpion Express,Chessington World of Adventures,Operating,Mack Rides,1987,51.3494,-0.318,6/7/1987,Steel,22.4,15.4,0,,243
+244,Skyliner (roller coaster),Other,,Philadelphia Toboggan Coasters,1987,,,,Wood,40,,0,,244
+245,Vortex (Kings Island),Kings Island,Removed,Arrow Dynamics,1987,39.3407,-84.2642,4/11/1987,Steel,55,,6,3.9,245
+246,Woodstock's Express (California's Great America),Other,,Intamin,1987,40.5793,-75.5326,,Steel,,,0,,246
+247,Avalanche (Blackpool Pleasure Beach),Blackpool Pleasure Beach,Operating,Mack Rides,1988,53.7901,-3.0559,6/22/1988,Steel,45,,0,,247
+248,Avalanche (Kings Dominion),Kings Dominion,Closed,Mack Rides,1988,37.8401,-77.4407,3/26/1988,Steel,41,,0,3.4,248
+249,Bandit (Yomiuriland),Yomiuriland,Operating,TOGO,1988,35.6255,139.5181,3/1/1988,Steel,68.3,,0,,249
+250,Beast (Alton Towers),"Alton, Staffordshire, England",,,1988,52.9875,-1.8908,,Other,,,0,,250
+251,Boomerang (Six Flags México),Other,,Vekoma,1988,19.2934,-99.2078,,Steel,47,,3,5.2,251
+252,Cobra (La Ronde),Other,,Intamin,1988,,,,Steel,48,,1,,252
+253,Crazy Bats,Phantasialand,Operating,Vekoma,1988,50.801,6.878,4/1/1988,Steel,28.9,,0,,253
+254,Jetline,Gr?na Lund,Operating,Anton Schwarzkopf,1988,59.3231,18.0956,1/1/1988,Steel,55.9,,0,4.5,254
+255,Ninja (Six Flags Magic Mountain),Six Flags Magic Mountain,Operating,Arrow Dynamics,1988,34.4222,-118.5983,5/21/1988,Steel,55,,0,2.9,255
+256,Raging Wolf Bobs,Geauga Lake,Removed,Dinn Corporation,1988,41.3525,-81.3722,5/28/1988,Wood,50,,0,,256
+257,Shockwave (Six Flags Great America),Six Flags Great America,Removed,Arrow Dynamics,1988,42.3712,-87.9343,6/3/1988,Steel,65,,7,,257
+258,Thunderbolt Express,Other,,Arrow Dynamics,1988,,,,Steel,45,,1,4,258
+259,Wipeout (roller coaster),Pleasurewood Hills,Operating,Vekoma,1988,52.5075,1.7434,1/1/2007,Steel,50,,6,,259
+260,Wolverine Wildcat,Michigan's Adventure,Operating,Dinn Corporation,1988,43.3436,-86.2775,5/18/1988,Wood,55,,0,,260
+261,Anaconda (Walygator Parc),Walygator Parc,Operating,William Cobb,1989,,,1/1/1989,Other,,,0,,261
+262,Eurosat - CanCan Coaster,Europa-Park,Operating,Mack Rides,1989,,,1/1/1989,Steel,37.3,83.7,0,4,262
+263,Excalibur (Valleyfair),Valleyfair,Operating,Arrow Dynamics,1989,44.7995,-93.462,1/1/1989,Steel,54.5,,0,3.6,263
+264,Flashback (Six Flags Over Texas),Other,,Vekoma,1989,,,,Steel,47,,3,5.2,264
+265,Goudurix,Parc Astérix,Operating,Vekoma,1989,49.1314,2.5714,1/1/1989,Steel,55.9,118.1,7,3.9,265
+266,Great American Scream Machine (Six Flags Great Adventure),Six Flags Great Adventure,Removed,Arrow Dynamics,1989,40.1391,-74.4381,4/15/1989,Steel,68,,7,3.8,266
+267,Hercules (roller coaster),Dorney Park & Wildwater Kingdom,Removed,Dinn Corporation,1989,40.5811,-75.5322,5/6/1989,Wood,65,,0,,267
+268,Magnum XL-200,Cedar Point,Operating,Arrow Dynamics,1989,41.4853,-82.6861,5/6/1989,Steel,72,,0,,268
+269,Ninja (Six Flags St. Louis),Other,,Vekoma,1989,38.5149,-90.6739,,Steel,54.7,,4,,269
+270,Olympia Looping,Oktoberfest,Operating,BHS,1989,48.131,11.549,9/17/1989,Steel,52,,5,5.2,270
+271,Timber Wolf (roller coaster),Worlds of Fun,Operating,Dinn Corporation,1989,39.1728,-94.4892,4/1/1989,Wood,53,,0,,271
+272,Vekoma Illusion,Bobbejaanland,Operating,Vekoma,1989,51.1993,4.909,6/15/1989,Steel,31.1,91.9,0,,272
+273,Viper (Six Flags AstroWorld),Other,,Anton Schwarzkopf,1989,,,,Steel,47.8,,1,,273
+274,Corkscrew (Silverwood),Other,,Arrow Development,1990,,,,Steel,46,,2,,274
+275,Dragon (Adventureland),Adventureland (Iowa),Removed,Hopkins Rides,1990,41.6504,-93.5014,5/12/1990,Steel,55,,2,4.5,275
+276,Flashback (Six Flags New England),Other,,Vekoma,1990,,,,Steel,47,,3,5.2,276
+277,Iron Wolf (roller coaster),Other,,Bolliger & Mabillard,1990,,,,Steel,55,,2,,277
+278,Pikajuna,Linnanm?ki,Operating,Mack Rides,1990,60.1875,24.9381,1/1/1990,Steel,23,23,0,,278
+279,Predator (roller coaster),Six Flags Darien Lake,Operating,Dinn Corporation,1990,42.9292,-78.3861,5/25/1990,Wood,50,,0,,279
+280,Texas Giant,Six Flags Over Texas,Operating,Rocky Mountain Construction,1990,32.7564,-97.0731,4/22/2011,Steel,65,,0,4.2,280
+281,Thunder Looper,Other,Discontinued,Anton Schwarzkopf,1990,,,,Other,,,2,,281
+282,Thunder Run (Kentucky Kingdom),Kentucky Kingdom,Operating,Dinn Corporation,1990,38.1956,-85.7475,8/1/1990,Wood,53,,0,,282
+283,Tigre de Sibérie,Le Pal,Operating,Reverchon Industries,1990,,,1/1/1990,Steel,24.9,,0,,283
+284,Twisted Cyclone,Six Flags Over Georgia,Operating,Rocky Mountain Construction,1990,33.7703,-84.5522,5/25/2018,Steel,50,,3,,284
+285,Vampire (roller coaster),Chessington World of Adventures,Operating,Arrow Dynamics,1990,51.3473,-0.3156,4/11/1990,Steel,45,,0,4,285
+286,Viper (Six Flags Magic Mountain),Six Flags Magic Mountain,Operating,Arrow Dynamics,1990,34.4208,-118.5953,4/7/1990,Steel,70,,7,4.1,286
+287,Adventure Express,Kings Island,Operating,Arrow Dynamics,1991,39.3445,-84.2648,4/13/1991,Steel,35,,0,3.8,287
+288,Afterburner (Fun Spot),Fun Spot Amusement Park & Zoo,Removed,Arrow Development,1991,41.6769,-85.0312,1/1/1991,Steel,45,,2,4,288
+289,Anaconda (roller coaster),Kings Dominion,Operating,Arrow Dynamics,1991,37.8392,-77.4402,3/23/1991,Steel,50,,4,5.1,289
+290,Pegasus (Efteling),Efteling,Removed,Dinn Corporation,1991,51.6469,5.0519,7/1/1991,Wood,34.2,,0,3.5,290
+291,Psyclone (roller coaster),Six Flags Magic Mountain,Removed,Dinn Corporation,1991,34.421,-118.6003,3/23/1991,Wood,50,,0,3,291
+292,Sidewinder (Hersheypark),Hersheypark,Operating,Vekoma,1991,40.2899,-76.6538,5/11/1991,Steel,47,,6,5.2,292
+293,Steel Phantom,Kennywood,Operating,D. H. Morgan Manufacturing,1991,40.389,-79.866,5/10/1991,Steel,85,,0,3.5,293
+294,Toboggan (Lakemont Park),Lakemont Park,Removed,Chance Rides,1991,40.4712,-78.3961,1/1/1991,Steel,,,0,,294
+295,Turbo Mountain,Adventure World,Removed,Anton Schwarzkopf,1991,-32.0948,115.8164,1/1/1991,Steel,35.4,39.4,0,,295
+296,The Ultimate (roller coaster),Lightwater Valley,Closed,British Rail Engineering Limited,1991,54.1739,-1.5687,7/17/1991,Steel,50,,0,,296
+297,Vortex (Canada's Wonderland),Canada's Wonderland,Operating,Arrow Dynamics,1991,43.8419,-79.5435,5/12/1991,Steel,55,91.2,0,,297
+298,Vortex (Great America),California's Great America,Operating,Bolliger & Mabillard,1991,37.3967,-121.9732,3/9/1991,Steel,45,,2,,298
+299,Wildcat (Frontier City),Other,,National Amusement Devices,1991,,,,Wood,46,,0,,299
+300,Batman: The Ride,Other,,Bolliger & Mabillard,1992,,,,Steel,50,,5,4,300
+301,Blue Hawk (roller coaster),Other,,Vekoma,1992,,,,Steel,52,,5,4,301
+302,Cosmic Coaster (Valleyfair),Other,,Zamperla,1992,,,,Steel,15,,0,,302
+303,Desert Storm (roller coaster),Castles N' Coasters,Operating,Hopkins Rides,1992,33.5718,-112.1188,1/1/1992,Steel,,,2,,303
+304,Drachen Fire,Busch Gardens Williamsburg,Removed,Arrow Dynamics,1992,37.2306,-76.6444,4/4/1992,Steel,60,,5,,304
+305,Dragon Coaster (Dorney Park),Other,,Zamperla,1992,,,,Steel,15,,0,,305
+306,Eagle Fortress,Everland,Removed,Arrow Dynamics,1992,,,9/8/1992,Steel,40,,0,,306
+307,The Great Pumpkin Coaster,"Mason, Ohio, United States",Operating,,1992,39.3448,-84.2686,,Other,,,0,,307
+308,Jupiter (roller coaster),Kijima Kogen,Operating,Intamin,1992,33.2617,131.4281,1/1/1992,Wood,56.5,137.8,0,,308
+309,Kingdom Coaster,Dutch Wonderland,Operating,Custom Coasters International,1992,40.0295,-76.2173,5/16/1992,Wood,40,,0,,309
+310,Pepsi Orange Streak,Nickelodeon Universe,Operating,Zierer,1992,,,8/11/1992,Steel,40,,0,,310
+311,Pipeline Express,Boardwalk Fun Park,Removed,"Bailey Rides, Inc.",1992,32.761,-96.997,7/23/1992,Steel,15,,0,,311
+312,The Rattler (roller coaster),Six Flags Fiesta Texas,Operating,Rocky Mountain Construction,1992,,,5/25/2013,Steel,70,,1,,312
+313,Runaway Mine Train (Alton Towers),Alton Towers,Operating,Mack Rides,1992,52.9897,-1.8856,3/21/1992,Steel,22.4,,0,2.4,313
+314,Sierra Tonante,Mirabilandia,Removed,S.D.C.,1992,44.3361,12.2619,1/1/1992,Wood,62.1,,0,4,314
+315,Streamliner Coaster,Six Flags Fiesta Texas,Operating,Vekoma,1992,29.5965,-98.6099,3/14/1992,Steel,,,0,,315
+316,Vortex (Carowinds),Carowinds,Operating,Bolliger & Mabillard,1992,35.1036,-80.9416,3/14/1992,Steel,50,,2,,316
+317,Batman The Escape,Other,,Intamin,1993,,,,Steel,55,,1,3.4,317
+318,Bocaraca,Other,,Vekoma,1993,,,,Steel,37.3,,2,,318
+319,Canyon Blaster (Adventuredome),Adventuredome,Operating,Arrow Dynamics,1993,36.1381,-115.1664,8/23/1993,Steel,41,,4,3.5,319
+320,Cosmic Coaster (Worlds of Fun),Worlds of Fun,Operating,Preston & Barbieri,1993,39.1723,-94.4889,4/3/1993,Steel,,,0,,320
+321,Flight Deck (California's Great America),California's Great America,Operating,Bolliger & Mabillard,1993,37.3981,-121.9718,3/20/1993,Steel,50,,3,4.5,321
+322,Gadget's Go Coaster,Other,,Vekoma,1993,,,,Steel,21.7,,0,,322
+323,Hundeprutterutchebane,BonBon-Land,Operating,Zierer,1993,55.2599,11.8639,1/1/1993,Steel,18.6,14.8,0,,323
+324,Indiana Jones et le Temple du Péril,Disneyland Park (Paris),Operating,Intamin,1993,,,7/30/1993,Steel,36,,1,,324
+325,Kumba (roller coaster),Busch Gardens Tampa Bay,Operating,Bolliger & Mabillard,1993,28.0397,-82.4231,4/20/1993,Steel,60,,7,3.8,325
+326,Lightning Bolt (roller coaster),MGM Grand Adventures Theme Park,Removed,Intamin,1993,,,1/1/1993,Other,35,,0,,326
+327,Outlaw (roller coaster),Adventureland (Iowa),Operating,Custom Coasters International,1993,41.6491,-93.5006,4/24/1993,Wood,48,,0,3.2,327
+328,Superman: Krypton Coaster (Six Flags Mexico),Other,In Production,Vekoma,1993,,,,Steel,,,0,,328
+329,Thunderation,Silver Dollar City,Operating,Arrow Dynamics,1993,36.6684,-93.3379,4/10/1993,Steel,48,,0,,329
+330,Top Gun (Kings Island),Kings Island,Operating,Arrow Dynamics,1993,39.3476,-84.2652,4/9/1993,Steel,51,,0,2.9,330
+331,The Comet (Great Escape),Great Escape,Operating,Philadelphia Toboggan Coasters,1994,43.3514,-73.6851,1/1/1948,Wood,55,,0,,331
+332,Condor (roller coaster),Walibi Holland,Operating,Vekoma,1994,52.4404,5.7615,5/1/1994,Steel,49.7,101.7,5,4.5,332
+333,Corkscrew (Playland),Playland,Removed,Vekoma,1994,49.2839,-123.0357,1/1/1994,Steel,40,,2,,333
+334,Desperado (roller coaster),Primm Valley Resorts,Closed,Arrow Dynamics,1994,35.6142,-115.3844,8/11/1994,Steel,80,,0,4,334
+335,Diavlo,Himeji Central Park,Operating,Bolliger & Mabillard,1994,34.8755,134.7637,7/1/1994,Steel,48.5,,5,,335
+336,Hakugei (roller coaster),Nagashima Spa Land,Operating,Rocky Mountain Construction,1994,35.0303,136.7347,3/28/2019,Steel,66.5,180.4,3,4,336
+337,Hoosier Hurricane,Indiana Beach,Operating,Custom Coasters International,1994,40.7903,-86.7706,5/27/1994,Wood,51,,0,,337
+338,Hurler (roller coaster),Other,,"International Coasters, Inc.",1994,,,,Wood,50,,0,4.1,338
+339,Nemesis (roller coaster),Alton Towers,Operating,Bolliger & Mabillard,1994,52.9869,-1.8828,3/19/1994,Steel,50.3,42.7,4,3.5,339
+340,Raptor (Cedar Point),Cedar Point,Operating,Bolliger & Mabillard,1994,41.479,-82.6818,5/7/1994,Steel,57,,6,,340
+341,Roller Skater (roller coaster),Kentucky Kingdom,Operating,Vekoma,1994,38.1967,-85.7476,4/15/1994,Steel,21.7,,0,,341
+342,Shockwave (Drayton Manor),Drayton Manor Theme Park,Operating,Intamin,1994,52.6125,-1.7161,3/26/1994,Steel,53,,4,4,342
+343,The Big One (roller coaster),Blackpool Pleasure Beach,Operating,Arrow Dynamics,1994,53.7892,-3.0553,5/28/1994,Steel,74,,0,3.5,343
+344,Titan (Space World),Space World,Removed,Arrow Dynamics,1994,33.8748,130.8134,3/5/1994,Steel,71.5,,0,3.7,344
+345,White Canyon (roller coaster),Yomiuriland,Removed,TOGO,1994,35.6258,139.5214,4/9/1994,Wood,52.4,,0,3.5,345
+346,Zach's Zoomer,Michigan's Adventure,Operating,Custom Coasters International,1994,43.3434,-86.2809,7/22/1994,Wood,,,0,,346
+347,Arkham Asylum – Shock Therapy,Warner Bros. Movie World,SBNO December 2019,Vekoma,1995,-27.9083,153.3119,12/26/1995,Steel,54.7,109.3,5,4,347
+348,Back at the Barnyard Hayride,Nickelodeon Universe,Operating,Zamperla,1995,44.8542,-93.2422,1/1/1995,Steel,,,0,,348
+349,The Gold Coaster,Other,,Arrow Dynamics,1995,,,,Steel,52.8,131.2,2,3,349
+350,Cactus Coaster,Other,,Allan Herschell Company,1995,,,,Steel,,,0,,350
+351,Cannonball Express (roller coaster),Pleasurewood Hills,Operating,Anton Schwarzkopf,1995,52.5062,1.7451,1/1/1995,Steel,34,,0,,351
+352,Cannonball Run (roller coaster),Waterville USA,Removed,Custom Coasters International,1995,30.2585,-87.6859,1/1/1995,Wood,43,,0,,352
+353,Comet Express,Other,,,1995,,,,Other,,,0,,353
+354,Cyclops (roller coaster),Mt. Olympus Water & Theme Park,Operating,Custom Coasters International,1995,43.6161,-89.7897,1/1/1995,Wood,58,,0,4.2,354
+355,Dragon Khan,PortAventura Park,Operating,Bolliger & Mabillard,1995,41.0875,1.1608,5/2/1995,Steel,65,148,8,4,355
+356,Eurostar (roller coaster),Other,,Intamin,1995,,,,Steel,50.2,,4,5.2,356
+357,Flight Deck (Canada's Wonderland),Canada's Wonderland,Operating,Vekoma,1995,43.8412,-79.539,1/1/1995,Steel,49.7,109.3,5,,357
+358,The Great Nor'easter,Morey's Piers,Operating,Vekoma,1995,38.9893,-74.8023,5/26/1995,Steel,55,,5,,358
+359,Jaguar!,Knott's Berry Farm,Operating,Zierer,1995,33.8458,-117.9992,6/17/1995,Steel,35,,0,,359
+360,The Raven (roller coaster),Holiday World & Splashin' Safari,Operating,Custom Coasters International,1995,38.1194,-86.9152,5/6/1995,Wood,50,,0,,360
+361,Sidewinder (Elitch Gardens),Other,,Arrow Dynamics,1995,,,,Steel,45,,1,4,361
+362,Space Mountain: De la Terre à la Lune,Disneyland Park (Paris),Operating,Vekoma,1995,48.8741,2.7793,5/7/2017,Steel,44,,3,,362
+363,Space Shuttle (roller coaster),Enchanted Kingdom,Operating,Vekoma,1995,14.2819,121.0954,7/28/1995,Steel,47,,3,5.2,363
+364,T2 (roller coaster),Kentucky Kingdom,Operating,Vekoma,1995,38.1941,-85.747,4/8/1995,Steel,49.7,,5,,364
+365,Twister II,Elitch Gardens,Operating,Hensel Phelps Construction,1995,39.7464,-105.0144,5/27/1995,Wood,55,,0,3.1,365
+366,Viper (Six Flags Great Adventure),Six Flags Great Adventure,Removed,TOGO,1995,40.139,-74.435,6/2/1995,Steel,48,,2,,366
+367,Viper (Six Flags Great America),Six Flags Great America,Operating,Six Flags,1995,42.3681,-87.9372,4/29/1995,Wood,50,,0,3.6,367
+368,Viper (Six Flags Over Georgia),Other,Discontinued,Anton Schwarzkopf,1995,,,,Other,,,2,,368
+369,Backyardigans: Mission to Mars,Movie Park Germany,Operating,Vekoma,1996,51.6198,6.976,6/30/1996,Steel,21.7,27.9,0,,369
+370,The Barnstormer,Magic Kingdom,Operating,Vekoma,1996,28.4205,-81.5784,10/1/1996,Steel,25,29.9,0,,370
+371,Colorado Adventure,Phantasialand,Operating,Vekoma,1996,50.7987,6.8815,5/11/1996,Steel,31.1,,0,,371
+372,Flight of Fear,Other,,Premier Rides,1996,,,,Steel,54,,4,4.5,372
+373,Fujiyama (roller coaster),Fuji-Q Highland,Operating,TOGO,1996,35.4859,138.777,7/1/1996,Steel,81,,0,3.5,373
+374,The Great White (Morey's Piers),Morey's Piers,Operating,Custom Coasters International,1996,38.9865,-74.8107,6/10/1996,Wood,50,,0,,374
+375,High Roller (Stratosphere),Stratosphere Tower,Removed,S&MC,1996,36.1474,-115.1554,4/29/1996,Steel,30,,0,2,375
+376,Megafobia,Oakwood Theme Park,Operating,Custom Coasters International,1996,51.7807,-4.8056,4/30/1996,Wood,48,,0,2.75,376
+377,Montu (roller coaster),Busch Gardens Tampa Bay,Operating,Bolliger & Mabillard,1996,28.0347,-82.4175,5/16/1996,Steel,60,,7,3.8,377
+378,Pegasus (Mt. Olympus Water and Theme Park),Mt. Olympus Water & Theme Park,Operating,Custom Coasters International,1996,43.614,-89.7898,1/1/1996,Wood,40,,0,,378
+379,Rougarou (roller coaster),Cedar Point,Operating,Bolliger & Mabillard,1996,41.4826,-82.6874,5/9/2015,Steel,60,,4,,379
+380,Runaway Mountain,"Arlington, Texas, U.S.",Operating,,1996,32.7557,-97.0702,,Other,,,0,,380
+381,Santa Monica West Coaster,Pacific Park,Operating,D. H. Morgan Manufacturing,1996,,,5/25/1996,Steel,35,,0,,381
+382,Skull Mountain,Six Flags Great Adventure,Operating,Intamin,1996,40.1346,-74.4419,6/3/1996,Steel,33,,0,2.3,382
+383,The Barnstormer at Goofy's Wiseacre Farm,Magic Kingdom,Operating,Vekoma,1996,28.4205,-81.5784,10/1/1996,Steel,25,29.9,0,,383
+384,The Joker's Revenge,Other,,Vekoma,1996,,,,Steel,40,,3,3.5,384
+385,The Mind Eraser (Geauga Lake),Other,,Vekoma,1996,,,,Steel,47,,6,5.2,385
+386,The Walking Dead: The Ride,Thorpe Park Resort,Operating,Vekoma,1996,51.4036,-0.5132,3/23/1996,Steel,27.7,,0,2.4,386
+387,Timber Terror,Silverwood Theme Park,Operating,Custom Coasters International,1996,47.9044,-116.7094,1/1/1996,Wood,55,,0,,387
+388,The Underground (roller coaster),Adventureland (Iowa),Operating,Custom Coasters International,1996,,,4/27/1996,Wood,,,0,,388
+389,Wild Thing (Valleyfair),Valleyfair,Operating,D. H. Morgan Manufacturing,1996,44.7986,-93.4587,5/11/1996,Steel,75,,0,4.1,389
+390,Wildcat (Hersheypark),Hersheypark,Operating,Great Coasters International,1996,40.2925,-76.6558,5/26/1996,Wood,50,,0,3.5,390
+391,Wilde maus,Other,,Mack Rides,1996,,,,Steel,28,,0,,391
+392,Alpengeist,Busch Gardens Williamsburg,Operating,Bolliger & Mabillard,1997,37.2328,-76.6476,3/22/1997,Steel,67,,6,3.7,392
+393,Boomerang: Coast to Coaster,Other,,Vekoma,1997,,,,Steel,47,,3,5.2,393
+394,Chang (roller coaster),Other,,Bolliger & Mabillard,1997,,,,Steel,63,,5,,394
+395,Euro-Mir,Europa-Park,Operating,Mack Rides,1997,48.2647,7.7197,1/1/1997,Steel,49.7,,0,4,395
+396,The Great White (SeaWorld San Antonio),SeaWorld San Antonio,Operating,Bolliger & Mabillard,1997,29.4523,-98.6965,2/1/1997,Steel,50,,5,4.6,396
+397,Green Lantern (Six Flags Great Adventure),Other,,Bolliger & Mabillard,1997,,,,Steel,63,,5,,397
+398,Invertigo (roller coaster),Other,In Production,Vekoma,1997,,,,Other,50,,3,,398
+399,Kiddie Coaster,Lake Compounce,Operating,Molina & Sons,1997,41.6423,-72.9226,6/27/1997,Steel,,,0,,399
+400,American Dreier Looping,Other,,Anton Schwarzkopf,1997,,,,Steel,53,,3,4.7,400
+401,Pyrenees (roller coaster),Parque Espana-Shima Spain Village,Operating,Bolliger & Mabillard,1997,34.3598,136.845,1/1/1997,Steel,62.1,147.6,6,,401
+402,Road Runner Express (Six Flags Fiesta Texas),Six Flags Fiesta Texas,Operating,Arrow Dynamics,1997,29.5991,-98.613,5/1/1997,Steel,35,,0,3,402
+403,Big Apple Coaster,New York-New York Hotel and Casino,Operating,TOGO,1997,36.1019,-115.1736,1/3/1997,Steel,67,,2,,403
+404,Skytrak,Granada Studios Tour,Removed,Skytrak International,1997,53.4781,-2.2571,10/1/1997,Steel,28,,0,2.5,404
+405,Stampida,Other,Operating,Custom Coasters International,1997,41.0904,1.1566,3/17/1997,Wood,46,,0,,405
+406,Steel Force,Dorney Park & Wildwater Kingdom,Operating,D. H. Morgan Manufacturing,1997,40.5789,-75.5381,5/30/1997,Steel,75,,0,3.4,406
+407,Superman: Escape from Krypton,Other,Operating,Intamin,1997,34.425,-118.598,3/15/1997,Steel,100,,0,4.5,407
+408,Tonnerre de Zeus,Parc Astérix,Operating,Custom Coasters International,1997,49.1314,2.5739,1/1/1997,Wood,52,,0,,408
+409,Tower of Terror II,Dreamworld,Removed,Intamin,1997,-27.8641,153.3174,1/23/1997,Steel,100,377.3,0,4.5,409
+410,Windjammer Surf Racers,Other,Removed,TOGO,1997,33.8458,-118.0008,3/26/1997,Steel,40,,1,,410
+411,Zeus (roller coaster),Mt. Olympus Water & Theme Park,Operating,Custom Coasters International,1997,43.6167,-89.7892,6/7/1997,Wood,60,,0,,411
+412,Zoomerang (Lake Compounce),Lake Compounce,Operating,Vekoma,1997,41.643,-72.9229,6/27/1997,Steel,47,,3,5.2,412
+413,Batman & Robin: The Chiller,Other,Removed,Premier Rides,1998,,,4/4/1998,Steel,65,,1,5,413
+414,Blue Tornado (roller coaster),Gardaland,Operating,Vekoma,1998,45.4566,10.7137,1/1/1998,Steel,49.7,,5,4.5,414
+415,Doo Wopper,Morey's Piers,Operating,Zamperla,1998,38.9892,-74.803,8/7/1998,Steel,,,0,,415
+416,Excalibur (Funtown Splashtown USA),Funtown Splashtown USA,Operating,Custom Coasters International,1998,43.5283,-70.4312,1/1/1998,Wood,55,,0,,416
+417,GhostRider (roller coaster),Knott's Berry Farm,Operating,Custom Coasters International,1998,33.8426,-117.9981,12/8/1998,Wood,56,,0,3.1,417
+418,Great Bear (roller coaster),Hersheypark,Operating,Bolliger & Mabillard,1998,40.2869,-76.6531,5/23/1998,Steel,58,,4,,418
+419,Invertigo (California's Great America),Other,In Production,Vekoma,1998,,,,Other,50,,3,,419
+420,Journey to Atlantis,SeaWorld Orlando,Operating,Mack Rides,1998,,,4/17/1998,Steel,,,0,,420
+421,Kong (roller coaster),Other,,Vekoma,1998,,,,Steel,49.7,,5,,421
+422,Mad Cobra (roller coaster),"Suzuka, Mie Prefecture, Japan",,,1998,34.8431,136.5406,,Other,,,0,,422
+423,Mad Mouse (Pavilion),Myrtle Beach Pavilion,Removed,Arrow Dynamics,1998,33.6929,-78.8824,6/13/1998,Steel,25,,0,,423
+424,Mamba (roller coaster),Worlds of Fun,Operating,D. H. Morgan Manufacturing,1998,39.172,-94.4906,4/18/1998,Steel,75,,0,3.5,424
+425,Monte Makaya,Terra Encantada,Removed,Intamin,1998,-22.9853,-43.3644,1/16/1998,Steel,50,,8,,425
+426,Mr. Freeze (roller coaster),Other,,Premier Rides,1998,,,,Steel,70,,2,4,426
+427,Oblivion (roller coaster),Alton Towers,Operating,Bolliger & Mabillard,1998,52.9866,-1.8965,3/14/1998,Steel,68.4,65,0,4.5,427
+428,Rampage (roller coaster),Alabama Splash Adventure,Operating,Custom Coasters International,1998,33.3792,-86.9969,5/23/1998,Wood,56,,0,,428
+429,Rattlesnake (roller coaster),Chessington World of Adventures,Operating,Maurer AG,1998,51.3487,-0.3178,1/1/1998,Steel,28,,0,,429
+430,The Riddler's Revenge,Six Flags Magic Mountain,Operating,Bolliger & Mabillard,1998,34.4245,-118.6006,4/4/1998,Steel,65,,6,4.2,430
+431,Roar (roller coaster),Other,,Great Coasters International,1998,,,,Wood,50.5,,0,3.5,431
+432,Roller Coaster (Dam Sen Park),Dam Sen Cultural Park,Operating,Hebei Zhongye Metallurgical Equipment,1998,10.7605,106.6368,1/1/1998,Steel,43.5,78.7,3,3.8,432
+433,Scooby's Ghoster Coaster,Kings Island,Removed,Caripro,1998,39.3423,-84.2699,4/18/1998,Steel,8,,0,1,433
+434,Shivering Timbers,Michigan's Adventure,Operating,Custom Coasters International,1998,43.3422,-86.2761,1/1/1998,Wood,57,,0,3.8,434
+435,Sprocket Rockets,Six Flags Great America,Operating,Vekoma,1998,42.3669,-87.9311,1/1/1998,Steel,21.7,,0,,435
+436,Storm Chaser (roller coaster),Kentucky Kingdom,Operating,Rocky Mountain Construction,1998,38.1958,-85.7503,4/30/2016,Steel,52,,3,3.8,436
+437,Thunderhawk (Michigan's Adventure),Other,,Vekoma,1998,,,,Steel,49.7,,5,,437
+438,Vapor Trail (roller coaster),Sesame Place,Operating,Vekoma,1998,40.1852,-74.8725,6/1/1998,Steel,27,,0,,438
+439,Vogel Rok,Efteling,Operating,Vekoma,1998,51.6522,5.0525,4/9/1998,Steel,40,,0,3.5,439
+440,Volcano: The Blast Coaster,Kings Dominion,Removed,Intamin,1998,37.8394,-77.4402,8/3/1998,Steel,70,,4,,440
+441,Wild Mouse (Lagoon),Lagoon Amusement Park,Operating,Maurer AG,1998,40.9839,-111.8945,4/10/1998,Steel,28,,0,,441
+442,Wilderness Run (Carowinds),Carowinds,Operating,E&F Miler Industries,1998,35.1011,-80.9388,1/1/1998,Steel,15,,0,,442
+443,Afterburn (roller coaster),Carowinds,Operating,Bolliger & Mabillard,1999,35.1003,-80.9409,3/20/1999,Steel,62,,6,,443
+444,Apollo's Chariot,Busch Gardens Williamsburg,Operating,Bolliger & Mabillard,1999,37.2348,-76.6413,3/30/1999,Steel,73,,0,4.1,444
+445,Bandit (Movie Park Germany),Movie Park Germany,Operating,Roller Coaster Corporation of America,1999,51.6242,6.9754,1/1/1999,Wood,49.7,91.2,0,,445
+446,Bizarro (roller coaster),Six Flags Great Adventure,Operating,Bolliger & Mabillard,1999,40.1382,-74.4323,4/2/1999,Steel,61,,7,4,446
+447,Canyon Blaster (Six Flags Magic Mountain),Six Flags Magic Mountain,Operating,E&F Miler Industries,1999,34.4249,-118.5964,5/30/1999,Steel,10,,0,1,447
+448,Dragon Challenge,Other,Removed,Bolliger & Mabillard,1999,28.4736,-81.4733,5/28/1999,Steel,60,,5,,448
+449,Exterminator (roller coaster),Kennywood,Operating,Reverchon Industries,1999,40.3894,-79.8677,4/18/1999,Steel,29.1,,0,2.5,449
+450,Georgia Scorcher,Six Flags Over Georgia,Operating,Bolliger & Mabillard,1999,33.7703,-84.5506,5/8/1999,Steel,54,,2,4,450
+451,Great Chase (Six Flags America),Six Flags America,Operating,Zamperla,1999,38.9075,-76.772,1/1/1999,Steel,11,,0,,451
+452,Harley Quinn Crazy Train,Six Flags Great Adventure,Operating,Zierer,1999,40.1348,-74.4397,1/1/1999,Steel,22.4,,0,,452
+453,The Howler,Holiday World & Splashin' Safari,Operating,Zamperla,1999,38.1189,-86.9103,5/8/1999,Steel,16,,0,,453
+454,The Incredible Hulk Coaster,Universal's Islands of Adventure,Operating,Bolliger & Mabillard,1999,28.4712,-81.4684,5/28/1999,Steel,67,,7,4,454
+455,Invertigo (Kings Island),Other,In Production,Vekoma,1999,,,,Other,50,,3,,455
+456,Iron Gwazi,Busch Gardens Tampa Bay,Under construction,Rocky Mountain Construction,1999,28.0339,-82.4231,,Steel,76,,2,,456
+457,The Joker's Jinx,Six Flags America,Operating,Premier Rides,1999,38.91,-76.776,5/8/1999,Steel,60,,4,4.5,457
+458,Katapul,Other,Discontinued,Anton Schwarzkopf,1999,,,,Other,,,2,,458
+459,Lil' Devil Coaster,Six Flags Great Adventure,Operating,Zamperla,1999,40.1343,-74.4434,1/1/1999,Steel,,,0,,459
+460,Limit (roller coaster),Heide Park,Operating,Vekoma,1999,53.026,9.8818,1/1/1999,Steel,49.7,,5,,460
+461,Mad Mouse (Michigan's Adventure),Michigan's Adventure,Operating,Arrow Dynamics,1999,43.3474,-86.2789,8/7/1999,Steel,33,,0,,461
+462,Mad Mouse (Valleyfair),Valleyfair,Operating,Arrow Dynamics,1999,44.7999,-93.4591,5/8/1999,Steel,30,,0,,462
+463,Millennium Roller Coaster,Fantasy Island,Operating,Vekoma,1999,53.192,0.347,5/22/1999,Steel,56,,3,,463
+464,Monta?a Rusa (Parque del Café),Other,,Anton Schwarzkopf,1999,,,,Steel,41.2,,0,2.1,464
+465,Montezum,Hopi Hari,Operating,Roller Coaster Corporation of America,1999,-23.0987,-47.0109,1/1/1999,Wood,64,,0,,465
+466,Nightmare at Crack Axle Canyon,Other,,Anton Schwarzkopf,1999,,,,Steel,31,,0,,466
+467,Poltergeist (roller coaster),Six Flags Fiesta Texas,Operating,Premier Rides,1999,29.5969,-98.6083,5/28/1999,Steel,60,,4,4.5,467
+468,Powder Keg: A Blast into the Wilderness,Other,,S&S – Sansei Technologies,1999,,,,Steel,64,,0,3.9,468
+469,Pteranodon Flyers,"Universal Orlando Resort, Orlando, Florida, United States",,,1999,28.4717,-81.4714,,Other,,,0,,469
+470,"Python (Coney Island, Cincinnati, Ohio)",Coney Island,Removed,Pinfari,1999,39.0539,-84.419,1/1/1999,Steel,,,0,,470
+471,Raging Bull (roller coaster),Six Flags Great America,Operating,Bolliger & Mabillard,1999,42.3658,-87.9371,5/1/1999,Steel,73,,0,,471
+472,Road Runner Express (Six Flags Discovery Kingdom),Six Flags Discovery Kingdom,Operating,Zamperla,1999,38.1371,-122.2345,1/1/1999,Steel,,,0,,472
+473,Rock 'n' Roller Coaster Starring Aerosmith,Other,,Vekoma,1999,,,,Steel,57,,3,5,473
+474,Rollie's Coaster,Morey's Piers,Operating,Pinfari,1999,38.9858,-74.8097,1/1/1999,Steel,27,,0,,474
+475,Silver Comet (roller coaster),Fantasy Island,Temporarily Closed,Custom Coasters International,1999,43.0283,-78.9739,5/1/1999,Wood,50,,0,,475
+476,Steel Eel,SeaWorld San Antonio,Operating,D. H. Morgan Manufacturing,1999,29.4553,-98.6961,3/6/1999,Steel,65,,0,3.5,476
+477,Superman – Ride of Steel,Other,,Intamin,1999,,,,Steel,73,,0,,477
+478,Tennessee Tornado,Dollywood,Operating,Arrow Dynamics,1999,35.793,-83.5279,4/17/1999,Steel,63,,3,3.7,478
+479,Thunderbolt (Celebration City),Other,,S&MC,1999,,,,Steel,34,,0,,479
+480,Tornado (Parque de Atracciones de Madrid),Parque de Atracciones de Madrid,Operating,Intamin,1999,40.4134,-3.748,5/23/1999,Steel,49.7,,3,4,480
+481,Tremors (roller coaster),Silverwood Theme Park,Operating,Custom Coasters International,1999,47.9053,-116.7097,5/15/1999,Wood,50,,0,2.5,481
+482,Twisted Typhoon,Wild Adventures,Operating,Vekoma,1999,30.7181,-83.3243,5/8/1999,Steel,49.7,,5,,482
+483,Twister (Knoebels Amusement Resort),Knoebels Amusement Resort,Operating,Knoebels Amusement Resort,1999,40.8771,-76.5041,7/24/1999,Wood,51,,0,,483
+484,Two Face: The Flip Side,Other,In Production,Vekoma,1999,,,,Other,50,,3,,484
+485,Wild Mouse (Hersheypark),Hersheypark,Operating,Mack Rides,1999,40.2925,-76.6548,5/8/1999,Steel,28,,0,,485
+486,Woodstock Express (Cedar Point),Cedar Point,Operating,Vekoma,1999,41.4853,-82.689,5/10/1999,Steel,25,,0,,486
+487,Woodstock Express (Michigan's Adventure),Michigan's Adventure,Operating,Chance Rides,1999,43.3423,-86.2807,7/10/1999,Steel,15,,0,,487
+488,Woody Woodpecker's Nuthouse Coaster,Universal Studios Florida,Operating,Vekoma,1999,28.4739,-81.4649,3/13/1999,Steel,21.7,,0,,488
+489,Batman: The Ride (Six Flags México),Six Flags Mexico,Operating,Vekoma,2000,19.2952,-99.2065,4/14/2000,Steel,49.7,,5,,489
+490,Boomerang (Worlds of Fun),Worlds of Fun,Operating,Vekoma,2000,39.1731,-94.4851,4/8/2000,Steel,47,,6,,490
+491,The Boss (roller coaster),Six Flags St. Louis,Operating,Custom Coasters International,2000,38.5161,-90.6789,4/29/2000,Wood,66.3,,0,,491
+492,Boulder Dash (roller coaster),Lake Compounce,Operating,Custom Coasters International,2000,41.6392,-72.9245,5/21/2000,Wood,60,,0,,492
+493,Catwoman's Whip,Six Flags New England,Operating,Zierer,2000,42.0371,-72.6117,5/5/2000,Steel,22.4,,0,,493
+494,Dania Beach Hurricane,Boomers!,Removed,"Coaster Works, Inc.",2000,26.054,-80.1603,11/1/2000,Wood,50,,0,3,494
+495,Diving Machine G5,Janfusun Fancyworld,Operating,Bolliger & Mabillard,2000,23.6181,120.5772,3/29/2000,Steel,68.3,,0,5,495
+496,Dominator (roller coaster),Other,,Bolliger & Mabillard,2000,,,,Steel,65,,5,3.8,496
+497,Flying Dutchman Gold Mine,Other,,Mack Rides,2000,,,,Steel,28,45.9,0,,497
+498,Flying Super Saturator,Carowinds,Removed,Setpoint USA,2000,35.1027,-80.9431,4/1/2000,Steel,30,,0,,498
+499,Flying Unicorn,Other,,"Vekoma (Orlando, Japan)Mack Rides (Hollywood, Beijing)",2000,,,,Steel,28.5,,0,,499
+500,Ghost Chasers (roller coaster),Movie Park Germany,Operating,Mack Rides,2000,51.6195,6.9765,1/1/2000,Steel,28,45.9,0,,500
+501,Goliath (Six Flags Magic Mountain),Six Flags Magic Mountain,Operating,Giovanola,2000,34.4269,-118.5969,2/11/2000,Steel,85,,0,,501
+502,Gotham City Gauntlet: Escape from Arkham Asylum,Other,,Maurer AG,2000,,,,Steel,28,,0,,502
+503,Hurricane: Category 5,Myrtle Beach Pavilion,Removed,Custom Coasters International,2000,33.6918,-78.8817,5/6/2000,Wood,55,,0,3,503
+504,Jet Star (Luna Park),Other,,Anton Schwarzkopf,2000,,,,Steel,31.1,,0,,504
+505,Katun (roller coaster),Mirabilandia,Operating,Bolliger & Mabillard,2000,44.3383,12.2668,4/1/2000,Steel,65,,6,4,505
+506,Kraken (roller coaster),SeaWorld Orlando,Operating,Bolliger & Mabillard,2000,28.4111,-81.4583,6/1/2000,Steel,65,,7,3.9,506
+507,The Legend (roller coaster),Holiday World & Splashin' Safari,Operating,Custom Coasters International,2000,38.1202,-86.914,5/6/2000,Wood,59,,0,,507
+508,Lightning Racer,Other,Operating,Great Coasters International,2000,40.2929,-76.6532,5/13/2000,Wood,51,,0,3.6,508
+509,Linnunrata,Linnanm?ki,Operating,Zierer,2000,60.1878,24.94,5/1/2000,Steel,24.9,23,0,,509
+510,Medusa (Six Flags Discovery Kingdom),Six Flags Discovery Kingdom,Operating,Bolliger & Mabillard,2000,38.1406,-122.2336,3/18/2000,Steel,65,,7,4.5,510
+511,Mega Zeph,Six Flags New Orleans,Closed,Custom Coasters International,2000,30.0531,-89.9375,5/20/2000,Wood,57,,0,,511
+512,Millennium Force,Cedar Point,Operating,Intamin,2000,41.4817,-82.6881,5/13/2000,Steel,93,,0,4.5,512
+513,Muskrat Scrambler,Six Flags New Orleans,Closed,L&T Systems,2000,30.0515,-89.9357,5/20/2000,Steel,25,,0,,513
+514,Possessed (roller coaster),Other,,Intamin,2000,,,,Steel,70,,0,3.7,514
+515,Ravine Flyer III,Waldameer Park,Operating,E&F Miler Industries,2000,42.109,-80.1565,1/1/2000,Steel,,,0,,515
+516,RC-48,Morey's Piers,Removed,Pinfari,2000,38.9888,-74.8023,1/1/2000,Steel,,,0,,516
+517,Road Runner Express (Six Flags Kentucky Kingdom),Other,,Maurer AG,2000,,,,Steel,28,,0,,517
+518,Road Runner Express (Six Flags New Orleans),Other,,Vekoma,2000,,,,Steel,21.7,,0,,518
+519,Road Runner Rollercoaster,Warner Bros. Movie World,,Vekoma,2000,,,,Steel,28.5,42.7,0,,519
+520,Roller Coaster (Papéa Parc),Other,,Zierer,2000,41.3535,-81.3756,,Other,22.4,,0,,520
+521,Roller Coaster (Suoi Tien Park),Suoi Tien Amusement Park,Operating,Vekoma,2000,10.8607,106.8044,1/1/2000,Steel,43.5,98.4,0,2,521
+522,Son of Beast,Kings Island,Removed,Roller Coaster Corporation of America,2000,39.3461,-84.2647,4/28/2000,Wood,78.4,,1,4.5,522
+523,Speed – The Ride,Other,,Premier Rides,2000,,,4/28/2000,Steel,70,,1,3.5,523
+524,Speed of Sound (roller coaster),Walibi Holland,Operating,Vekoma,2000,52.4406,5.7681,4/22/2000,Steel,47,,3,5.2,524
+525,Steel Dragon 2000,Nagashima Spa Land,Operating,D. H. Morgan Manufacturing,2000,35.0312,136.7301,8/1/2000,Steel,95,318.2,0,,525
+526,Superman The Ride,Six Flags New England,Operating,Intamin,2000,42.0386,-72.6114,5/5/2000,Steel,77,,0,3.6,526
+527,Superman: Krypton Coaster,Six Flags Fiesta Texas,Operating,Bolliger & Mabillard,2000,29.5952,-98.61,3/11/2000,Steel,70,,6,3.8,527
+528,Svalbard Ekspressen,Kongeparken,Operating,Vekoma,2000,58.7801,5.8405,1/1/2000,Steel,21.7,,0,,528
+529,Untamed (Walibi Holland),Walibi Holland,Operating,Rocky Mountain Construction,2000,52.4428,5.7608,7/1/2019,Steel,57.2,,5,,529
+530,Villain (roller coaster),Geauga Lake,Removed,Custom Coasters International,2000,41.3528,-81.3725,5/5/2000,Other,59,,0,,530
+531,Woodstock Express (Dorney Park),Dorney Park & Wildwater Kingdom,Operating,Zamperla,2000,40.5793,-75.5326,5/5/2000,Steel,13,,0,,531
+532,Xpress: Platform 13,Walibi Holland,Operating,Vekoma,2000,52.4392,5.7639,4/1/2000,Steel,55.9,,3,,532
+533,Zydeco Scream,Other,,Vekoma,2000,,,,Steel,47,,3,5.2,533
+534,Batwing (roller coaster),Six Flags America,Operating,Vekoma,2001,38.9103,-76.7786,6/16/2001,Steel,50,,5,4.3,534
+535,California Screamin',Disney California Adventure,Operating,Intamin,2001,33.8046,-117.9218,2/8/2001,Steel,55,,1,,535
+536,Cheetah (Wild Adventures),Wild Adventures,Removed,Custom Coasters International,2001,30.7196,-83.3257,6/16/2001,Wood,52,,0,,536
+537,Colossos - Kampf der Giganten,Heide Park,Operating,Intamin,2001,53.0231,9.8833,4/13/2001,Wood,68.4,164,0,4.5,537
+538,Cornball Express,Indiana Beach,Operating,Custom Coasters International,2001,40.7898,-86.771,5/18/2001,Wood,45,,0,4.7,538
+539,Déjà Vu (roller coaster),Other,In Production,Vekoma,2001,,,,Other,65.6,193.6,0,,539
+540,Do-Dodonpa,Fuji-Q Highland,Closed,S&S – Sansei Technologies,2001,35.4877,138.7823,12/21/2001,Steel,111.8,160.8,1,,540
+541,Expedition GeForce,"Holiday Park, Germany",Operating,Intamin,2001,49.32,8.295,6/18/2001,Steel,74.6,,0,4.5,541
+542,Flying Ace Aerial Chase,Kings Island,Operating,Vekoma,2001,,,1/1/2001,Steel,26,,0,2.2,542
+543,Giant Inverted Boomerang,Other,In Production,Vekoma,2001,,,,Other,65.6,193.6,0,,543
+544,Goofy's Sky School,Disney California Adventure,Operating,Mack Rides,2001,33.8063,-117.923,2/8/2001,Steel,27,,0,,544
+545,Hypersonic XLC,Kings Dominion,Removed,S&S – Sansei Technologies,2001,37.8372,-77.446,3/24/2001,Steel,80,,0,4,545
+546,Incredicoaster,Disney California Adventure,Operating,Intamin,2001,33.8046,-117.9218,2/8/2001,Steel,55,,1,,546
+547,Insane Speed,Janfusun Fancyworld,Operating,Bolliger & Mabillard,2001,23.6187,120.5758,1/1/2001,Steel,53.4,,4,4,547
+548,Lego Technic Test Track,Other,,Mack Rides,2001,,,,Steel,35,51.8,0,,548
+549,MP Xpress,Movie Park Germany,Operating,Vekoma,2001,51.6246,6.9733,4/6/2001,Steel,49.7,109.3,5,,549
+550,Mulholland Madness,Disney California Adventure,Operating,Mack Rides,2001,33.8063,-117.923,2/8/2001,Steel,27,,0,,550
+551,Nitro (Six Flags Great Adventure),Six Flags Great Adventure,Operating,Bolliger & Mabillard,2001,40.1356,-74.4444,4/7/2001,Steel,80,,0,4.3,551
+552,Phantom's Revenge,Kennywood,Operating,D. H. Morgan Manufacturing,2001,40.389,-79.866,5/10/1991,Steel,85,,0,3.5,552
+553,Silver Streak (Canada's Wonderland),Canada's Wonderland,Operating,Vekoma,2001,43.8424,-79.5462,5/6/2001,Steel,26,,0,,553
+554,Talon (roller coaster),Dorney Park & Wildwater Kingdom,Operating,Bolliger & Mabillard,2001,40.579,-75.53,5/5/2001,Steel,58,,4,4.5,554
+555,The Flash: Vertical Velocity,Six Flags Discovery Kingdom,SBNO (Standing But Not Operating),Intamin,2001,38.1382,-122.2323,6/8/2001,Steel,65,,1,,555
+556,Thundercoaster (TusenFryd),TusenFryd,Operating,Vekoma,2001,59.7472,10.7773,5/1/2001,Wood,57.8,,0,2.4,556
+557,Titan (Six Flags Over Texas),Six Flags Over Texas,Operating,Giovanola,2001,32.7556,-97.0742,4/27/2001,Steel,85,,0,,557
+558,Vertical Velocity (roller coaster),Six Flags Great America,Temporarily closed,Intamin,2001,42.3679,-87.9324,5/18/2001,Steel,70,,0,,558
+559,Vonkaputous,Linnanm?ki,Removed,Premier Rides,2001,60.1883,24.9381,5/12/2001,Steel,37.3,,0,2.5,559
+560,Wildfire (Silver Dollar City),Silver Dollar City,Operating,Bolliger & Mabillard,2001,36.6686,-93.3425,4/4/2001,Steel,66,,5,3.6,560
+561,Wile E. Coyote's Grand Canyon Blaster,"Arlington, Texas, U.S.",Operating,,2001,32.7557,-97.0702,,Other,,,0,,561
+562,X-Flight (Geauga Lake),Other,,Vekoma,2001,,,,Steel,50,,5,4.3,562
+563,Apple Zapple (Kings Dominion),Kings Dominion,Operating,Mack Rides,2002,,,3/22/2002,Steel,35,,0,,563
+564,Avalancha (roller coaster),Xetulul Theme Park,Operating,Intamin,2002,,,1/1/2002,Steel,54.7,,8,,564
+565,Batman: The Dark Knight (roller coaster),Six Flags New England,Operating,Bolliger & Mabillard,2002,42.0353,-72.6131,4/20/2002,Steel,55,,5,,565
+566,Batman: Arkham Asylum (roller coaster),Parque Warner Madrid,Operating,Bolliger & Mabillard,2002,40.2282,-3.5924,4/6/2002,Steel,49.7,,5,4.9,566
+567,Colossus (Thorpe Park),Thorpe Park,Operating,Intamin,2002,51.4032,-0.513,3/22/2002,Steel,45,,10,4.2,567
+568,Escape from Madagascar,Dreamworld,Operating,Vekoma,2002,-27.8639,153.3169,12/26/2002,Steel,26,48.9,0,2.2,568
+569,Flying Coaster (Elitch Gardens),Other,,Zamperla,2002,,,,Steel,25.7,,2,3.3,569
+570,Galactica (roller coaster),Alton Towers,Operating,Bolliger & Mabillard,2002,52.9859,-1.8821,3/16/2002,Steel,46.6,65.6,2,3.5,570
+571,Goliath (Walibi Holland),Walibi Holland,Operating,Intamin,2002,52.4386,5.7614,3/29/2002,Steel,65.9,154.8,0,,571
+572,Jubilee Odyssey,Fantasy Island (UK amusement park),Operating,Vekoma,2002,53.1922,0.3461,5/23/2002,Steel,63,,5,4.8,572
+573,Lost Coaster of Superstition Mountain,Indiana Beach,Operating,Custom Coasters International,2002,40.7886,-86.77,6/6/2002,Wood,20,,0,,573
+574,New Mexico Rattler,Cliff's Amusement Park,Operating,,2002,35.143,-106.5884,9/28/2002,Wood,47,,0,,574
+575,Primeval Whirl,Disney's Animal Kingdom,Removed,Reverchon Industries,2002,28.3564,-81.5877,3/31/2002,Steel,29.1,,0,2.5,575
+576,Ricochet (Carowinds),Carowinds,Operating,Mack Rides,2002,35.1042,-80.9428,3/23/2002,Steel,28,,0,,576
+577,Roller Soaker,Hersheypark,Removed,Setpoint USA,2002,40.2914,-76.6531,5/4/2002,Steel,20.5,,0,,577
+578,Rugrats Runaway Reptar (Dreamworld),Dreamworld,Operating,Vekoma,2002,-27.8639,153.3169,12/26/2002,Steel,26,48.9,0,2.2,578
+579,Scooby-Doo Spooky Coaster,Warner Bros. Movie World,Operating,Mack Rides,2002,-27.9078,153.3111,6/17/2002,Steel,27.7,55.8,0,2.4,579
+580,Silver Star (roller coaster),Europa-Park,Operating,Bolliger & Mabillard,2002,48.268,7.72,3/23/2002,Steel,78.9,239.5,0,4,580
+581,Star Jet,Casino Pier,Removed,E&F Miler Industries,2002,39.9428,-74.0683,1/1/2002,Steel,,,0,,581
+582,Superman: La Atracci?n de Acero,Parque Warner Madrid,Operating,Bolliger & Mabillard,2002,40.2277,-3.5906,4/6/2002,Steel,62.1,,7,,582
+583,Superman: Ultimate Flight,Other,,Bolliger & Mabillard,2002,,,,Steel,51,,2,3,583
+584,Toboggan (Conneaut Lake Park),Conneaut Lake Park,Removed,Chance Rides,2002,41.6341,-80.3137,1/1/2002,Steel,,,0,,584
+585,Tom & Jerry (roller coaster),Parque Warner Madrid,Operating,Zierer,2002,40.2298,-3.5961,4/6/2002,Steel,22,,0,,585
+586,Le Vampire,La Ronde,Operating,Bolliger & Mabillard,2002,45.5225,-73.5381,5/18/2002,Steel,50,,5,4,586
+587,Wicked Twister,Cedar Point,Closed,Intamin,2002,41.482,-82.6799,5/5/2002,Steel,72,,0,,587
+588,Winja's Fear & Force,Other,Operating,Maurer AG,2002,50.8002,6.8777,3/30/2002,Steel,37.2,,0,,588
+589,X2 (roller coaster),Six Flags Magic Mountain,Operating,Arrow Dynamics,2002,34.421,-118.5929,1/12/2002,Steel,76,,2,4,589
+590,Xcelerator,Knott's Berry Farm,Operating,Intamin,2002,33.8458,-118.0008,6/22/2002,Steel,82,,0,,590
+591,Atlantis Adventure,Lotte World,Operating,Intamin,2003,,,1/1/2003,Steel,46.6,,0,,591
+592,Balder (roller coaster),Liseberg,Operating,Intamin,2003,57.6933,11.9961,4/12/2003,Wood,55.9,118.1,0,,592
+593,Canyon Blaster (Great Escape),Other,,Arrow Development,2003,,,,Steel,45,,0,,593
+594,Dragon Express,Adventure World,Operating,Zamperla,2003,-32.097,115.8181,9/27/2003,Steel,,13.1,0,,594
+595,Greased Lightnin' (Six Flags Discovery Kingdom),Other,Discontinued,Anton Schwarzkopf,2003,,,,Other,,,2,,595
+596,Greezed Lightnin' (Kentucky Kingdom),Other,Discontinued,Anton Schwarzkopf,2003,,,,Other,,,2,,596
+597,Half Pipe (roller coaster),Other,,Intamin,2003,,,,Steel,43.5,,0,4.5,597
+598,Jack Rabbit (Celebration City),"Orlando, FloridaKissimmee, FloridaFayetteville, GeorgiaUnited States",Operating,,2003,28.3303,-81.5147,,Other,,,0,,598
+599,The Jester (roller coaster),Other,,Vekoma,2003,,,,Steel,40,,3,3.5,599
+600,Kiddy Hawk,Carowinds,Operating,Vekoma,2003,,,3/22/2003,Steel,26,,0,2.2,600
+601,Nemesis Inferno,Thorpe Park,Operating,Bolliger & Mabillard,2003,51.4035,-0.5164,4/5/2003,Steel,49.7,95.1,4,5,601
+602,Ozark Wildcat,Celebration City,Removed,Great Coasters International,2003,36.6509,-93.2938,5/1/2003,Wood,45,,0,,602
+603,Scream (roller coaster),Six Flags Magic Mountain,Operating,Bolliger & Mabillard,2003,34.4286,-118.5983,4/12/2003,Steel,63,,7,4,603
+604,Spider (roller coaster),Lagoon,Operating,Maurer AG,2003,40.9844,-111.895,4/1/2003,Steel,37.3,,0,,604
+605,Steel Venom (Valleyfair),Valleyfair,Operating,Intamin,2003,44.7978,-93.4517,5/17/2003,Steel,68,,0,,605
+606,Swamp Thing (Wild Adventures),Wild Adventures,Operating,Vekoma,2003,30.7196,-83.3217,1/1/2003,Steel,26,,0,2.2,606
+607,Thunder Dolphin,Tokyo Dome City Attractions,Operating,Intamin,2003,35.7063,139.7533,5/1/2003,Steel,80.8,262.5,0,4.4,607
+608,Top Thrill Dragster,Cedar Point,Closed,Intamin,2003,41.484,-82.6862,5/4/2003,Steel,120,,0,,608
+609,Twist n' Shout,Loudoun Castle,Removed,Anton Schwarzkopf,2003,55.6104,-4.3689,4/1/2003,Steel,41,,1,,609
+610,Vild-Svinet,BonBon-Land,Operating,Gerstlauer,2003,55.2611,11.8634,5/16/2003,Steel,45,72.2,1,,610
+611,Vilda Musen,Gr?na Lund,Operating,Gerstlauer,2003,59.3231,18.0956,4/18/2003,Steel,34.2,,0,,611
+612,Booster Bike,Toverland,Operating,Vekoma,2004,51.3975,5.9842,7/27/2004,Steel,46.6,49.2,0,2.5,612
+613,D?monen,Tivoli Gardens,Operating,Bolliger & Mabillard,2004,55.6728,12.5703,4/16/2004,Steel,47.8,91.9,3,4,613
+614,Dragon's Fury (roller coaster),Chessington World of Adventures,Operating,Maurer AG,2004,51.348,-0.319,3/27/2004,Steel,,,0,,614
+615,Fairly Odd Coaster,Nickelodeon Universe,Operating,Gerstlauer,2004,44.8542,-93.2422,3/15/2004,Steel,31,,0,3.2,615
+616,Hell Cat,Clementon Amusement Park,Operating,S&S – Sansei Technologies,2004,39.802,-74.9847,9/18/2004,Wood,56,,0,,616
+617,The Joker Funhouse Coaster,Six Flags Over Georgia,Operating,Chance Manufacturing,2004,33.7678,-84.551,9/4/2004,Steel,30,,0,,617
+618,Lightning (roller coaster),Kuwait Entertainment City,Removed,Bolliger & Mabillard,2004,29.3456,47.8182,1/1/2004,Steel,53,,5,,618
+619,Nighthawk (roller coaster),Other,,Vekoma,2004,,,,Steel,51,,5,4.3,619
+620,Ragin' Cajun (roller coaster),Other,,Zamperla,2004,,,,Steel,29.1,,0,2.5,620
+621,Revenge of the Mummy,Other,,Premier Rides,2004,,,,Steel,40,,0,,621
+622,Sand Serpent,Other,,Mack Rides,2004,,,,Steel,28,,0,,622
+623,Shock Wave (Brean Leisure Park),Brean Leisure Park,Operating,Pinfari,2004,51.2861,-3.0089,1/1/2004,Steel,,,1,,623
+624,Silver Bullet (Knott's Berry Farm),Knott's Berry Farm,Operating,Bolliger & Mabillard,2004,33.8444,-117.9997,12/7/2004,Steel,55,,6,3,624
+625,Spinball Whizzer,Alton Towers,Operating,Maurer AG,2004,52.9889,-1.8946,3/27/2004,Steel,37.3,55.8,0,,625
+626,Spinning Dragons,Worlds of Fun,Operating,Gerstlauer,2004,39.1754,-94.4879,4/17/2004,Steel,31,,0,,626
+627,Steel Dragon (Waldameer),Waldameer Park,Operating,Maurer AG,2004,42.1081,-80.1589,7/2/2004,Steel,37.3,,0,,627
+628,Storm Runner,Hersheypark,Operating,Intamin,2004,40.2897,-76.6536,5/8/2004,Steel,75,,3,5,628
+629,Super Grover's Box Car Derby,Other,,Zierer,2004,,,,Steel,28,,0,,629
+630,Superman El ?ltimo Escape,Six Flags México,Operating,D. H. Morgan Manufacturing,2004,,,11/19/2004,Steel,74.6,,0,,630
+631,The Gauntlet (roller coaster),Magic Springs and Crystal Falls,Operating,Vekoma,2004,38.1941,-85.747,4/10/2004,Steel,49.7,,5,,631
+632,Thunderhead (roller coaster),Dollywood,Operating,Great Coasters International,2004,35.7967,-83.5319,4/3/2004,Wood,53.7,,0,,632
+633,Time Warp (roller coaster),Canada's Wonderland,Operating,Zamperla,2004,43.8408,-79.5396,5/2/2004,Steel,25.7,50.2,2,,633
+634,Tulireki,Linnanm?ki,Operating,Mack Rides,2004,60.1881,24.9381,4/29/2004,Steel,36,,0,3.5,634
+635,Typhoon (Bobbejaanland),Bobbejaanland,Operating,Gerstlauer,2004,51.1997,4.9055,4/10/2004,Steel,49.7,84.3,4,5,635
+636,WhirlWind (Seabreeze),Seabreeze Amusement Park,Operating,Maurer AG,2004,43.234,-77.5429,1/1/2004,Steel,37.3,,0,,636
+637,Atlantica SuperSplash,Europa Park,,Mack Rides,2005,48.2622,7.7211,3/19/2005,Other,49.7,98.4,0,4,637
+638,Bat (Lagoon),Lagoon Amusement Park,Operating,Vekoma,2005,40.9862,-111.8926,4/16/2005,Steel,,48.6,0,2.2,638
+639,Cobra (PowerPark),PowerPark,Operating,Vekoma,2005,63.2298,22.8587,1/1/2005,Steel,47,,3,5.2,639
+640,Fairly Odd Coaster (Carowinds),Carowinds,Operating,Philadelphia Toboggan Coasters,2005,35.101,-80.9394,1/1/1975,Wood,36,,0,,640
+641,Frankie's Mine Train,Other,,Zamperla,2005,,,,Steel,,,0,,641
+642,G Force (roller coaster),Drayton Manor Theme Park,Removed,Maurer AG,2005,52.6128,-1.7147,7/26/2005,Other,43.5,,3,4.3,642
+643,Hades 360,Mt. Olympus Water & Theme Park,Operating,The Gravity Group,2005,43.617,-89.7893,5/14/2013,Wood,60,,1,3.5,643
+644,Hydra the Revenge,Dorney Park & Wildwater Kingdom,Operating,Bolliger & Mabillard,2005,40.581,-75.5325,5/7/2005,Steel,53,,7,,644
+645,Italian Job: Stunt Track (Canada's Wonderland),Other,,Premier Rides,2005,,,,Steel,40,,0,,645
+646,Italian Job: Stunt Track (Kings Island),Other,,Premier Rides,2005,,,,Steel,40,,0,,646
+647,Kanonen,Liseberg,Removed,Intamin,2005,57.6933,11.9954,4/23/2005,Steel,46.6,78.7,2,,647
+648,Kingda Ka,Six Flags Great Adventure,Operating,Intamin,2005,40.1392,-74.4365,5/21/2005,Steel,128,,0,,648
+649,Pandemonium (roller coaster),Other,,Gerstlauer,2005,,,,Steel,31,,0,,649
+650,Raging Spirits,Tokyo DisneySea,Operating,Intamin,2005,35.6277,139.8808,7/21/2005,Steel,37.3,,1,,650
+651,Rita (roller coaster),Alton Towers,Operating,Intamin,2005,52.985,-1.8905,4/1/2005,Steel,61.1,60.4,0,4.7,651
+652,Sequoia Adventure,Gardaland,Closed,S&S - Sansei Technologies,2005,45.457,10.7076,4/30/2005,Steel,,,3,,652
+653,SheiKra,Busch Gardens Tampa Bay,Operating,Bolliger & Mabillard,2005,28.0367,-82.4244,5/21/2005,Steel,70,,1,4,653
+654,Space Mountain: Mission 2,Disneyland Park (Paris),Operating,Vekoma,2005,48.8741,2.7793,5/7/2017,Steel,44,,3,,654
+655,Superman Escape,Warner Bros. Movie World,Operating,Intamin,2005,-27.908,153.3125,12/26/2005,Steel,62.1,131.2,0,4.2,655
+656,Wild Mouse (Beech Bend Park),Beech Bend Park,Operating,Zamperla,2005,37.0225,-86.4017,1/1/2005,Steel,29.1,,0,2.5,656
+657,10 Inversion Roller Coaster,Chimelong Paradise,Operating,Intamin,2006,23.0044,113.3269,1/1/2006,Steel,45,,10,,657
+658,Black Mamba (roller coaster),Phantasialand,Operating,Bolliger & Mabillard,2006,50.7986,6.8803,5/24/2006,Steel,49.7,,4,4,658
+659,Crystal Wing,Happy Valley Beijing,Operating,Bolliger & Mabillard,2006,39.866,116.4885,7/9/2006,Steel,51,,2,,659
+660,Eejanaika (roller coaster),Fuji-Q Highland,Operating,S&S Arrow,2006,35.4884,138.7808,7/19/2006,Steel,78.3,,3,,660
+661,Expedition Everest,Disney's Animal Kingdom,Operating,Vekoma,2006,,,4/7/2006,Other,50,,0,3,661
+662,Fairly Odd Coaster (Kings Island),Kings Island,Operating,Philadelphia Toboggan Coasters,2006,39.3432,-84.2693,1/1/1972,Wood,35,,0,,662
+663,Golden Wings in Snowfield,Happy Valley Beijing,Operating,Vekoma,2006,39.865,116.4846,7/9/2006,Steel,53.7,,4,,663
+664,Goliath (Six Flags Over Georgia),Six Flags Over Georgia,Operating,Bolliger & Mabillard,2006,33.7692,-84.55,4/1/2006,Steel,70,,0,,664
+665,Goliath (La Ronde),La Ronde,Operating,Bolliger & Mabillard,2006,45.5278,-73.5363,5/13/2006,Steel,68.4,,0,,665
+666,Grand Exposition Coaster,Silver Dollar City,Operating,Zamperla,2006,36.6704,-93.3366,4/1/2006,Steel,,,0,,666
+667,Italian Job: Turbo Coaster,Other,,Premier Rides,2006,,,,Steel,40,,0,,667
+668,Jungle Racing,Happy Valley Beijing,Operating,Vekoma,2006,39.868,116.4874,7/9/2006,Steel,30.1,,0,2.2,668
+669,Kentucky Rumbler,Beech Bend Park,Operating,Great Coasters International,2006,37.0225,-86.4017,5/6/2006,Wood,47,,0,,669
+670,Kumali,Flamingo Land,Operating,Vekoma,2006,54.2117,-0.8066,1/1/2006,Steel,54.9,,4,4.7,670
+671,Patriot (Worlds of Fun),Worlds of Fun,Operating,Bolliger & Mabillard,2006,39.1753,-94.4889,4/8/2006,Steel,60,,4,,671
+672,Speed Monster,TusenFryd,Operating,Intamin,2006,59.7482,10.777,4/23/2006,Steel,55.9,,3,4,672
+673,Speed: No Limits,Oakwood Theme Park,Operating,Gerstlauer,2006,51.779,-4.805,4/13/2006,Steel,59,,2,4.5,673
+674,Stealth (roller coaster),Thorpe Park,Operating,Intamin,2006,51.405,-0.5153,3/15/2006,Steel,80,205.1,0,,674
+675,Tatsu,Six Flags Magic Mountain,Operating,Bolliger & Mabillard,2006,34.4219,-118.5975,5/13/2006,Steel,62,,4,,675
+676,Thunderbird (PowerPark),PowerPark,Operating,Great Coasters International,2006,63.2306,22.8579,4/29/2006,Wood,48,,0,,676
+677,El Toro (Six Flags Great Adventure),Six Flags Great Adventure,Closed,Intamin,2006,40.1389,-74.4346,6/12/2006,Wood,70,,0,,677
+678,The Voyage (roller coaster),Holiday World & Splashin' Safari,Operating,The Gravity Group,2006,38.1213,-86.9115,5/6/2006,Wood,67,,0,,678
+679,X-Coaster,Magic Springs and Crystal Falls,Operating,Maurer AG,2006,34.5179,-93.0151,5/27/2006,Steel,65,,0,,679
+680,Boardwalk Bullet,Kemah Boardwalk,Operating,Martin & Vleminckx,2007,29.5463,-95.0173,8/31/2007,Wood,51,,0,3.5,680
+681,Crush's Coaster,Walt Disney Studios Park,Operating,Maurer AG,2007,48.8682,2.7777,6/9/2007,Steel,37.7,,0,,681
+682,De Vliegende Hollander,Efteling,Operating,Kumbak,2007,51.648,5.0474,4/1/2007,Steel,42.9,59.1,0,2,682
+683,Firehawk (roller coaster),Other,,Vekoma,2007,,,,Steel,50,,5,4.3,683
+684,Formule X,Drievliet Family Park,Operating,Maurer AG,2007,52.0544,4.3496,4/6/2007,Steel,45,,2,,684
+685,Furius Baco,PortAventura Park,Operating,Intamin,2007,41.0847,1.1564,6/5/2007,Steel,83.9,,1,4.7,685
+686,Galaxy Orbiter,Galaxyland,Operating,Gerstlauer,2007,53.5236,-113.6211,7/17/2007,Steel,24.9,147.6,0,3.26,686
+687,Griffon (roller coaster),Busch Gardens Williamsburg,Operating,Bolliger & Mabillard,2007,37.2344,-76.6475,5/18/2007,Steel,71,,2,4,687
+688,Hollywood Dream – The Ride,Universal Studios Japan,Operating,Bolliger & Mabillard,2007,34.6666,135.4338,3/9/2007,Steel,55.9,144.4,0,,688
+689,Infusion (roller coaster),Other,,Vekoma,2007,,,,Steel,50,,5,4.5,689
+690,Jimmy Neutron's Atomic Flyer,Movie Park Germany,Operating,Vekoma,2007,51.62,6.9725,3/1/2007,Steel,,42.7,0,,690
+691,Kirnu,Linnanm?ki,Operating,Intamin,2007,60.1883,24.94,4/27/2007,Steel,37,,0,2.6,691
+692,Kvasten,Gr?na Lund,Operating,Vekoma,2007,59.3226,18.0964,4/28/2007,Steel,34.2,64.3,0,2.5,692
+693,Maverick (roller coaster),Cedar Point,Operating,Intamin,2007,41.4852,-82.6925,5/26/2007,Steel,70,,2,,693
+694,Mick Doohan's Motocoaster,Dreamworld,Operating,Intamin,2007,-27.8628,153.3169,9/30/2007,Steel,44.7,23,0,,694
+695,Mystery Mine,Dollywood,Operating,Gerstlauer,2007,35.7956,-83.5301,4/13/2007,Steel,43.5,,2,,695
+696,Phaethon (roller coaster),Gyeongju World,Operating,Bolliger & Mabillard,2007,35.8367,129.28,5/5/2007,Steel,55.9,,6,,696
+697,Rage (roller coaster),Adventure Island,Operating,Gerstlauer,2007,51.5325,0.7167,2/10/2007,Steel,43.5,,3,4.5,697
+698,Renegade (roller coaster),Valleyfair,Operating,Great Coasters International,2007,44.8008,-93.4611,5/12/2007,Wood,51.3,,0,3.9,698
+699,Sierra Sidewinder,Knott's Berry Farm,Operating,Mack Rides,2007,33.845,-117.9986,5/26/2007,Steel,37,,0,,699
+700,Star Flyer (roller coaster),"Barangay 1, Pasay, Philippines",Closed,,2007,14.556,120.9859,,Other,,,0,,700
+701,Surfrider,Wet'n'Wild Gold Coast,Operating,Intamin,2007,-27.9143,153.3164,9/1/2007,Steel,,98.4,0,,701
+702,Troy (roller coaster),Toverland,Operating,Great Coasters International,2007,,,6/29/2007,Wood,54,104.7,0,2.4,702
+703,Wicked (roller coaster),Lagoon Amusement Park,Operating,Zierer,2007,40.9839,-111.8956,6/1/2007,Steel,55,,1,4.8,703
+704,American Thunder (roller coaster),Six Flags St. Louis,Operating,Great Coasters International,2008,38.5125,-90.6772,6/20/2008,Wood,48,,0,,704
+705,Backlot Stunt Coaster,Other,,Premier Rides,2008,,,,Steel,40,,0,,705
+706,Behemoth (roller coaster),Canada's Wonderland,Operating,Bolliger & Mabillard,2008,43.839,-79.5406,5/4/2008,Steel,77.1,229.7,0,4.5,706
+707,Cobra (Tivoli Friheden),Tivoli Friheden,Operating,Sartori Rides,2008,56.1358,10.1979,6/28/2008,Steel,43.5,,3,4.5,707
+708,The Dark Knight Coaster,Other,,Mack Rides,2008,,,,Steel,30,,0,,708
+709,Dive Coaster (Chimelong Paradise),Chimelong Paradise,Operating,Bolliger & Mabillard,2008,22.9996,113.3233,2/7/2008,Steel,68.4,,1,4.4,709
+710,Dragon's Run,Other,,Bolliger & Mabillard,2008,,,,Steel,65,,6,,710
+711,Fahrenheit (roller coaster),Hersheypark,Operating,Intamin,2008,40.291,-76.6552,5/24/2008,Steel,58,,6,,711
+712,Flight Deck (Kings Island),Kings Island,Operating,Arrow Dynamics,2008,39.3476,-84.2652,4/9/1993,Steel,51,,0,2.9,712
+713,Flight of the Hippogriff,Other,,"Vekoma (Orlando, Japan)Mack Rides (Hollywood, Beijing)",2008,,,,Steel,28.5,,0,,713
+714,Goliath (Six Flags Fiesta Texas),Other,,Bolliger & Mabillard,2008,,,,Steel,50,,5,4,714
+715,Jet Rescue,Sea World (Australia),Operating,Intamin,2008,-27.9568,153.4261,12/26/2008,Steel,43.5,19.7,0,2.5,715
+716,Kawasemi,Tobu Zoo,Operating,Intamin,2008,,,1/1/2008,Steel,52.8,,0,,716
+717,Mammut (roller coaster),Gardaland,Operating,Vekoma,2008,45.4578,10.7125,3/19/2008,Steel,31.1,,0,,717
+718,Moto Coaster (Six Flags Darien Lake),Six Flags Darien Lake,Operating,Zamperla,2008,42.9304,-78.3834,5/1/2008,Steel,38,,0,,718
+719,Muntanya Russa (Tibidabo Amusement Park),Tibidabo Amusement Park,Operating,Vekoma,2008,41.4228,2.1198,12/23/2008,Steel,49.7,,0,3.5,719
+720,Pony Express (roller coaster),Knott's Berry Farm,Operating,Zamperla,2008,33.8429,-118.0013,5/22/2008,Steel,38,,0,,720
+721,Ravine Flyer II,Waldameer Park,Operating,The Gravity Group,2008,42.1093,-80.157,5/17/2008,Wood,60,,0,3.5,721
+722,Roller Coaster (Dai Nam Van Hien),??i Nam V?n Hi?n,Operating,Hebei Zhongye Metallurgical Equipment,2008,11.0433,106.6325,9/11/2008,Steel,46.6,110.2,4,4,722
+723,Round About (roller coaster),"2904 Fantasy Way Myrtle Beach, South Carolina, U.S.",Chapter 7 bankruptcy; rides dismantled and sold; property sold,,2008,33.714,-78.933,,Other,,,0,,723
+724,Salama (roller coaster),Linnanm?ki,Operating,Maurer AG,2008,60.1872,24.9392,4/25/2008,Steel,37.3,,0,,724
+725,Soak'd,"2904 Fantasy Way Myrtle Beach, South Carolina, U.S.",Chapter 7 bankruptcy; rides dismantled and sold; property sold,,2008,33.714,-78.933,,Other,,,0,,725
+726,SpongeBob SquarePants Rock Bottom Plunge,Nickelodeon Universe,Operating,Gerstlauer,2008,44.8553,-93.2425,3/15/2008,Steel,43.5,,2,4.4,726
+727,Steel Hawg,Indiana Beach,Operating,S&S – Sansei Technologies,2008,40.7909,-86.7718,7/5/2008,Steel,41,,2,,727
+728,Steel Lasso,Frontier City,Operating,Chance Morgan,2008,35.5838,-97.4405,7/18/2008,Steel,30,48.9,0,2.2,728
+729,T Express,Everland,Operating,Intamin,2008,37.2898,127.2024,3/14/2008,Wood,64.6,183.8,0,,729
+730,Tsunami (roller coaster),Other,,Anton Schwarzkopf,2008,,,,Steel,55,,0,,730
+731,Apocalypse: The Ride,Six Flags Magic Mountain,Operating,Great Coasters International,2009,34.4213,-118.5998,5/23/2009,Wood,50.1,,0,,731
+732,Blue Fire,Europa-Park,Operating,Mack Rides,2009,48.2624,7.7185,4/4/2009,Steel,62,,4,3.8,732
+733,Diamondback (Kings Island),Kings Island,Operating,Bolliger & Mabillard,2009,39.3421,-84.2674,4/18/2009,Other,80,,0,4.2,733
+734,Diving Coaster,Happy Valley Shanghai,Operating,Bolliger & Mabillard,2009,31.0979,121.209,8/16/2009,Steel,68.4,213.3,1,4,734
+735,Escape of Novgorod,Hansa-Park,Operating,Gerstlauer,2009,54.0744,10.7814,4/9/2009,Steel,62.1,131.2,1,4.3,735
+736,Falcon (Duinrell),Duinrell,Operating,Gerstlauer,2009,52.1477,4.3792,5/14/2009,Steel,43.5,72.2,3,4.5,736
+737,Grover's Alpine Express,Busch Gardens Williamsburg,Operating,Zierer,2009,37.2361,-76.6444,4/3/2009,Steel,26.5,,0,,737
+738,Hollywood Rip Ride Rockit,Universal Studios Florida,Operating,Maurer AG,2009,28.4749,-81.4683,8/19/2009,Steel,65,,0,4.18,738
+739,Hornet (roller coaster),Other,,Vekoma,2009,,,,Steel,,,0,,739
+740,Insane (Gr?na Lund),Gr?na Lund,Operating,Intamin,2009,59.3233,18.0953,4/25/2009,Steel,37.3,116.5,0,3.5,740
+741,ISpeed,Mirabilandia,Operating,Intamin,2009,,,5/20/2009,Steel,74.6,,2,,741
+742,Kozmo's Kurves,"Elysburg, Pennsylvania, United States",,,2009,40.879,-76.505,,Other,,,0,,742
+743,Manta (SeaWorld Orlando),SeaWorld Orlando,Operating,Bolliger & Mabillard,2009,28.4119,-81.4617,5/22/2009,Steel,56,,4,3.7,743
+744,Mumbo Jumbo (roller coaster),Flamingo Land Resort,Operating,S&S – Sansei Technologies,2009,54.209,-0.808,7/4/2009,Steel,41,,2,3,744
+745,Prowler (roller coaster),Worlds of Fun,Operating,Great Coasters International,2009,39.1744,-94.4837,5/2/2009,Wood,51.2,,0,,745
+746,Saw – The Ride,Thorpe Park,Operating,Gerstlauer,2009,51.4026,-0.5119,3/14/2009,Steel,55,,3,,746
+747,Teststrecke,Other,,Anton Schwarzkopf,2009,,,,Steel,52,,2,,747
+748,The Flying Cobras,Other,,Vekoma,2009,,,,Steel,47,,6,5.2,748
+749,El Toro (Freizeitpark Plohn),Freizeitpark Plohn,Operating,Great Coasters International,2009,50.566,12.401,4/10/2009,Wood,45.6,80.4,0,,749
+750,Tranan,Skara Sommarland,Operating,S&S – Sansei Technologies,2009,58.41,13.55,5/29/2009,Steel,24.9,,0,2.5,750
+751,Wooden Coaster - Fireball,Happy Valley Shanghai,Operating,Martin & Vleminckx,2009,31.0987,121.214,8/16/2009,Wood,56,,0,,751
+752,Air Grover,"Tampa, Florida, U.S.",Operating,,2010,28.0379,-82.4216,,Other,,,0,,752
+753,Battlestar Galactica (roller coaster),Other,Operating,Vekoma,2010,1.2541,103.8223,3/18/2010,Steel,51,,5,,753
+754,Canopy Flyer,Universal Studios Singapore,Operating,Setpoint Inc.,2010,1.2534,103.824,3/18/2010,Steel,,,0,,754
+755,Edn?r – L'Attaque,Other,,Vekoma,2010,,,,Steel,49.7,,5,3.1,755
+756,Enchanted Airways,Universal Studios Singapore,Operating,Vekoma,2010,1.255,103.8222,3/18/2010,Steel,28.5,42.7,0,,756
+757,Fiorano GT Challenge,Other,Operating,Maurer AG,2010,24.4864,54.6042,11/4/2010,Steel,59,,0,1.5,757
+758,Formula Rossa,Ferrari World Abu Dhabi,Operating,Intamin,2010,24.4842,54.6124,11/4/2010,Steel,149.1,170.6,0,4.8,758
+759,Huracan (Belantis),Belantis,Operating,Gerstlauer,2010,51.2531,12.3125,6/26/2010,Steel,52.8,105,5,4.3,759
+760,Intimidator (roller coaster),Carowinds,Operating,Bolliger & Mabillard,2010,35.1031,-80.9394,3/27/2010,Steel,75,,0,4.3,760
+761,Intimidator 305,Kings Dominion,Operating,Intamin,2010,37.8375,-77.4397,4/2/2010,Steel,90,,0,,761
+762,Joris en de Draak,Other,Operating,Great Coasters International,2010,51.6469,5.0525,7/1/2010,Wood,46.6,82,0,,762
+763,The Monster (Walygator Parc),Other,,Bolliger & Mabillard,2010,49.2299,6.1581,,Steel,55.9,,6,,763
+764,RC Racer,Other,,Intamin,2010,,,,Steel,,82,0,,764
+765,Sky Rocket,Kennywood Park,Operating,Premier Rides,2010,40.3864,-79.8647,6/29/2010,Steel,50,,3,0.8,765
+766,Space Fantasy – The Ride,Universal Studios Japan,Operating,Mack Rides,2010,34.6653,135.4357,3/18/2010,Steel,,23,0,,766
+767,Thirteen (roller coaster),Alton Towers,Operating,Intamin,2010,52.9847,-1.8904,3/20/2010,Steel,42,,0,3.2,767
+768,Viking Voyage,"Orlando, FloridaKissimmee, FloridaFayetteville, GeorgiaUnited States",Operating,,2010,28.3303,-81.5147,,Other,,,0,,768
+769,Woodstock Express (Carowinds),Carowinds,Operating,Philadelphia Toboggan Coasters,2010,35.101,-80.9394,1/1/1975,Wood,36,,0,,769
+770,Woodstock Express (Kings Island),Kings Island,Operating,Philadelphia Toboggan Coasters,2010,39.3432,-84.2693,1/1/1972,Wood,35,,0,,770
+771,Accelerator (roller coaster),Drayton Manor,Operating,Vekoma,2011,52.6108,-1.7134,4/21/2011,Steel,37.3,65.6,0,3,771
+772,Black Diamond (roller coaster),Knoebels Amusement Resort,Operating,Philadelphia Toboggan Coasters,2011,40.8797,-76.5068,10/8/2011,Steel,,,0,,772
+773,Blue Flyer,Blackpool Pleasure Beach,Operating,,2011,53.7902,-3.0539,1/1/1934,Other,,,0,,773
+774,BomBora (Lagoon),Lagoon,Operating,Lagoon,2011,40.9855,-111.8923,4/2/2011,Steel,31,,0,,774
+775,BuzzSaw (roller coaster),Dreamworld,Removed,Maurer AG,2011,-27.8623,153.3149,9/17/2011,Steel,65.2,151.6,2,5,775
+776,Cheetah Hunt,Busch Gardens Tampa Bay,Operating,Intamin,2011,28.0342,-82.42,5/27/2011,Steel,60,,1,4,776
+777,Dare Devil Dive,Six Flags Over Georgia,Operating,Gerstlauer,2011,33.7703,-84.5479,5/28/2011,Steel,52,,3,,777
+778,Eurofighter (Zoosafari Fasanolandia),Zoosafari Fasanolandia,Operating,Gerstlauer,2011,40.8303,17.3398,8/6/2011,Steel,43.5,75.5,2,,778
+779,Green Lantern Coaster,Warner Bros. Movie World,Operating,S&S – Sansei Technologies,2011,-27.9073,153.3136,12/23/2011,Steel,41,108.3,2,3.5,779
+780,Hair Raiser,Ocean Park Hong Kong,Operating,Bolliger & Mabillard,2011,22.2357,114.1725,12/8/2011,Steel,54.7,,4,4,780
+781,Krake,Heide Park,Operating,Bolliger & Mabillard,2011,53.0247,9.879,4/16/2011,Steel,64,134.5,1,,781
+782,New Texas Giant,Six Flags Over Texas,Operating,Rocky Mountain Construction,2011,32.7564,-97.0731,4/22/2011,Steel,65,,0,4.2,782
+783,Raptor (Gardaland),Gardaland,Operating,Bolliger & Mabillard,2011,45.4571,10.7119,4/1/2011,Steel,55.9,,3,,783
+784,Road Runner Express (Six Flags Magic Mountain),Other,,Vekoma,2011,,,,Steel,21.7,,0,,784
+785,Sky Scrapper,World Joyland,Operating,Bolliger & Mabillard,2011,31.4975,120.0411,4/30/2011,Steel,54.7,,5,3.3,785
+786,Soarin' Eagle,Other,,Zamperla,2011,,,,Steel,25.7,,2,3.3,786
+787,Takabisha,Fuji-Q Highland,Operating,Gerstlauer,2011,35.4853,138.78,7/16/2011,Steel,62.1,141.1,7,,787
+788,Tiger Express (roller coaster),Other,,Mack Rides,2011,,,,Steel,28,45.9,0,,788
+789,Timber Drop,Fraispertuis City,Operating,S&S – Sansei Technologies,2011,48.3242,6.7295,7/12/2011,Steel,41,96,2,,789
+790,Untamed (roller coaster),Canobie Lake Park,Operating,Gerstlauer,2011,42.7962,-71.249,6/11/2011,Steel,44,,3,4.5,790
+791,Van Helsing's Factory,Movie Park Germany,Operating,Gerstlauer,2011,51.6221,6.9752,6/18/2011,Steel,22.4,26.2,0,4,791
+792,Vipère (roller coaster),Other,,Intamin,2011,,,7/1/2011,Steel,37,,0,,792
+793,Wood Coaster (Mountain Flyer),OCT East,Operating,Great Coasters International,2011,22.6145,114.2968,7/19/2011,Wood,61.2,,0,,793
+794,Wooden Warrior,Quassy Amusement Park,Operating,The Gravity Group,2011,41.5264,-73.1509,4/23/2011,Wood,35,,0,,794
+795,Big Grizzly Mountain Runaway Mine Cars,Hong Kong Disneyland,Under Maintenance,Vekoma,2012,22.3102,114.0425,7/14/2012,Steel,44.7,,0,,795
+796,Cliffhanger (Colorado roller coaster),Other,,S&MC,2012,,,,Steel,34,,0,,796
+797,Dauling Dragon,Other,Operating,Martin & Vleminckx,2012,30.5912,114.3879,4/29/2012,Wood,,,0,,797
+798,Dinoconda,China Dinosaurs Park,Operating,S&S – Sansei Technologies,2012,31.8245,119.9955,4/29/2012,Steel,78.3,,3,,798
+799,Dragonfly (roller coaster),Duinrell,Operating,Gerstlauer,2012,52.1472,4.3785,3/31/2012,Steel,31.1,49.2,0,2.9,799
+800,Firebird (roller coaster),Other,,Bolliger & Mabillard,2012,,,,Steel,55,,2,,800
+801,Goliath (Six Flags New England),Other,,Vekoma,2012,,,,Steel,65.6,,3,4.5,801
+802,Iron Shark,Galveston Island Historic Pleasure Pier,Operating,Gerstlauer,2012,29.2858,-94.7895,6/1/2012,Steel,52,,4,,802
+803,Leviathan (Canada's Wonderland),Canada's Wonderland,Operating,Bolliger & Mabillard,2012,43.8445,-79.5424,5/6/2012,Steel,92,306.1,0,4.5,803
+804,Manta (SeaWorld San Diego),SeaWorld San Diego,Operating,Mack Rides,2012,32.7671,-117.228,5/26/2012,Steel,43,,0,3.5,804
+805,OzIris,Parc Astérix,Operating,Bolliger & Mabillard,2012,49.1342,2.5663,4/7/2012,Steel,56,,5,,805
+806,Polar X-plorer,Legoland Billund,Operating,Zierer,2012,55.737,9.1218,4/29/2012,Steel,40.4,65.6,0,,806
+807,Shambhala (roller coaster),PortAventura Park,Operating,Bolliger & Mabillard,2012,41.0847,1.1564,5/12/2012,Other,83.3,249.3,0,3.8,807
+808,Skyrush,Hersheypark,Operating,Intamin,2012,,,5/26/2012,Steel,75,,0,5,808
+809,Stinger (roller coaster),Other,In Production,Vekoma,2012,,,,Other,50,,3,,809
+810,Superman: Ultimate Flight (Six Flags Discovery Kingdom),Six Flags Discovery Kingdom,Operating,Premier Rides,2012,38.1386,-122.231,6/30/2012,Steel,62,,1,,810
+811,The Swarm (roller coaster),Thorpe Park,Operating,Bolliger & Mabillard,2012,51.4056,-0.5154,3/15/2012,Steel,59,126.6,5,4.5,811
+812,Triops (roller coaster),Other,In Production,Vekoma,2012,,,,Other,50,,3,,812
+813,Verbolten,Busch Gardens Williamsburg,Operating,Zierer,2012,37.2315,-76.6449,5/18/2012,Steel,53,,0,,813
+814,Wild Eagle,Dollywood,Operating,Bolliger & Mabillard,2012,35.7947,-83.5301,3/24/2012,Steel,61,,4,,814
+815,Wild West Express Coaster,Other,,Zierer,2012,,,,Steel,16,,0,,815
+816,Wodan Timbur Coaster,Europa-Park,Operating,Great Coasters International,2012,48.2614,7.7192,3/31/2012,Wood,62.1,,0,3.5,816
+817,X-Flight (Six Flags Great America),Six Flags Great America,Operating,Bolliger & Mabillard,2012,42.3654,-87.9338,5/16/2012,Steel,55,,5,,817
+818,Abyss (roller coaster),Adventure World,Operating,Gerstlauer,2013,-32.0955,115.817,11/1/2013,Steel,52.8,98.4,3,4.5,818
+819,Boomerang (Six Flags St. Louis),Other,,Vekoma,2013,,,,Steel,47,,3,5.2,819
+820,Coast Rider,Knott's Berry Farm,Operating,Mack Rides,2013,33.845,-118.0019,5/25/2013,Steel,,,0,,820
+821,Crazy Bird,Happy Valley Tianjin,Operating,S&S – Sansei Technologies,2013,39.1847,117.4686,12/22/2013,Steel,,,2,,821
+822,Deep Space (roller coaster),Adlabs Imagica,Operating,Premier Rides,2013,18.7647,-73.2805,1/1/2013,Steel,42.5,,2,,822
+823,Flying Turns (Knoebels),Knoebels Amusement Resort,Operating,Knoebels Amusement Resort,2013,40.8784,-76.5051,10/5/2013,Wood,24,,0,,823
+824,Freedom Flyer,Fun Spot America,Operating,Vekoma,2013,28.4662,-81.4561,6/8/2013,Steel,34.2,,0,2.5,824
+825,Full Throttle (roller coaster),Six Flags Magic Mountain,Operating,Premier Rides,2013,34.4232,-118.5972,6/22/2013,Steel,70,,2,4,825
+826,GateKeeper (roller coaster),Cedar Point,Operating,Bolliger & Mabillard,2013,41.4806,-82.679,5/11/2013,Steel,67,,6,4,826
+827,Gold Striker,California's Great America,Operating,Great Coasters International,2013,37.3967,-121.9749,5/31/2013,Wood,53.7,,0,4.2,827
+828,Iron Rattler,Six Flags Fiesta Texas,Operating,Rocky Mountain Construction,2013,,,5/25/2013,Steel,70,,1,,828
+829,The Joker (Six Flags México),Other,,Gerstlauer,2013,19.2951,-99.2082,,Steel,31,,0,,829
+830,Karacho,Erlebnispark Tripsdrill,Operating,Gerstlauer,2013,49.0377,9.0544,7/10/2013,Steel,55.9,98.4,4,,830
+831,Nitro (Imagicaa),Imagicaa,Operating,Bolliger & Mabillard,2013,18.7664,73.28,10/1/2013,Steel,65.2,,5,,831
+832,Orkanen,F?rup Sommarland,Operating,Vekoma,2013,57.27,9.6453,6/5/2013,Steel,46.6,,0,3,832
+833,Outlaw Run,Silver Dollar City,Operating,Rocky Mountain Construction,2013,36.6681,-93.34,3/15/2013,Wood,68,,3,,833
+834,Ring Racer,Nürburgring,Closed,S&S - Sansei Technologies,2013,50.3361,6.9492,10/31/2013,Steel,99.4,123,0,5.6,834
+835,The Smiler,Alton Towers,Operating,Gerstlauer,2013,52.9872,-1.8953,5/31/2013,Steel,52.8,,14,4.8,835
+836,Smoky Mountain Alpine Coaster,Other,Operating,Wiegand,2013,35.7934,-83.5965,8/3/2013,Steel,27,,0,,836
+837,Storm Coaster,Sea World (Australia),Operating,Mack Rides,2013,-27.9563,153.4258,12/6/2013,Steel,43.5,91.9,0,3,837
+838,White Lightning (roller coaster),Fun Spot America,Operating,Great Coasters International,2013,28.4662,-81.4564,6/7/2013,Wood,44.3,,0,,838
+839,Wild Kitty,Other,,Allan Herschell Company,2013,,,,Steel,,,0,,839
+840,Woodstock Express (Kings Dominion),Kings Dominion,Operating,Philadelphia Toboggan Coasters,2013,37.8405,-77.4422,1/1/1974,Wood,35,,0,,840
+841,Alpina Blitz,Nigloland,Operating,Mack Rides,2014,48.2617,4.6149,4/12/2014,Steel,51.6,108.3,0,4.3,841
+842,Arthur – The Ride,Europa-Park,Operating,Mack Rides,2014,48.2639,7.7237,6/1/2014,Steel,19.3,44.3,0,,842
+843,Banshee (roller coaster),Kings Island,Operating,Bolliger & Mabillard,2014,39.3457,-84.2655,4/18/2014,Steel,68,,7,,843
+844,The Bat (Kings Island; opened 1993),Kings Island,Operating,Arrow Dynamics,2014,39.3476,-84.2652,4/9/1993,Steel,51,,0,2.9,844
+845,Dragon Wagon (Indiana Beach),Indiana Beach,Removed,Wisdom Rides,2014,40.79,-86.7713,8/1/2014,Steel,,,0,,845
+846,Family Inverted Coaster (Happy Valley Shanghai),Happy Valley Shanghai,Operating,Bolliger & Mabillard,2014,31.0973,121.2087,7/5/2014,Steel,30.4,,0,,846
+847,FireChaser Express,Dollywood,Operating,Gerstlauer,2014,35.7947,-83.5301,3/22/2014,Steel,34.5,,0,,847
+848,Flug der D?monen,Heide Park Resort,Operating,Bolliger & Mabillard,2014,53.0262,9.8796,3/29/2014,Steel,62.1,131.2,5,4,848
+849,Goliath (Six Flags Great America),Six Flags Great America,Operating,Rocky Mountain Construction,2014,42.3661,-87.9311,6/19/2014,Other,72,,2,,849
+850,Harry Potter and the Escape from Gringotts,Universal Studios Florida,Operating,Intamin,2014,28.4803,-81.47,7/8/2014,Steel,,,0,,850
+851,Helix (roller coaster),Liseberg,Operating,Mack Rides,2014,57.6953,11.9908,4/26/2014,Steel,62.1,134.5,7,4.3,851
+852,Lightning Run,Kentucky Kingdom,Operating,Chance Rides,2014,38.1965,-85.744,5/24/2014,Other,55,,0,,852
+853,El Loco (Adventuredome),Adventuredome,Operating,S&S – Sansei Technologies,2014,36.1375,-115.1666,2/18/2014,Steel,45,,2,,853
+854,Medusa Steel Coaster,Six Flags México,Operating,Rocky Mountain Construction,2014,19.2945,-99.2112,6/14/2014,Steel,58,,3,,854
+855,Parrot Coaster,Chime-Long Ocean Kingdom,Operating,Bolliger & Mabillard,2014,22.1016,113.529,1/25/2014,Steel,67,,3,,855
+856,Roar-o-Saurus,Story Land,Operating,The Gravity Group,2014,44.1161,-71.1828,5/24/2014,Wood,33,,0,,856
+857,Seven Dwarfs Mine Train,Other,,Vekoma,2014,,,,Steel,34,,0,,857
+858,Thunderbird (Holiday World),Holiday World & Splashin' Safari,Operating,Bolliger & Mabillard,2014,38.1242,-86.909,4/25/2015,Steel,60,,4,,858
+859,Thunderbolt (2014 roller coaster),Luna Park,Operating,Zamperla,2014,40.5735,-73.9826,6/14/2014,Steel,56,,4,4.3,859
+860,Twist Coaster Robin,Yomiuriland,Removed,Sansei Technologies,2014,35.6253,139.5194,3/19/2014,Steel,38.5,62.3,2,3.9,860
+861,Wonder Mountain's Guardian,Canada's Wonderland,Operating,Art Engineering,2014,43.84,-79.54,5/24/2014,Steel,,60,0,,861
+862,Zimerman (roller coaster),Other,,Arrow Dynamics,2014,,,,Steel,55,,3,,862
+863,Acrobat (roller coaster),Nagashima Spa Land,Operating,Bolliger & Mabillard,2015,,,7/18/2015,Steel,55.9,,4,,863
+864,Baron 1898,Efteling,Operating,Bolliger & Mabillard,2015,51.6482,5.0508,7/1/2015,Steel,55.9,98.4,2,,864
+865,Batman: The Ride (S&S Free Spin),Other,,S&S – Sansei Technologies,2015,,,,Steel,38,,6,,865
+866,Cannibal (roller coaster),Lagoon,Operating,Lagoon Corporation,2015,40.9874,-111.8955,7/2/2015,Steel,70,,4,4.2,866
+867,Fury 325,Carowinds,Operating,Bolliger & Mabillard,2015,35.1055,-80.9425,3/28/2015,Steel,95,,0,,867
+868,Harpy (Xishuangbanna Theme Park),Xishuangbanna Theme Park,Closed,Bolliger & Mabillard,2015,22.0277,100.742,9/26/2015,Steel,52.8,,2,,868
+869,Impulse (roller coaster),Knoebels Amusement Resort,Operating,Zierer,2015,40.8798,-76.5018,4/25/2015,Steel,55,,4,,869
+870,Jumbo Jet (Chelyuskintsev Park),Other,,Anton Schwarzkopf,2015,,,,Steel,,,0,,870
+871,Junker (roller coaster),PowerPark,Operating,Gerstlauer,2015,63.2309,22.8555,5/30/2015,Steel,64.9,,3,4.5,871
+872,Laff Trakk,Hersheypark,Operating,Maurer AG,2015,40.2935,-76.6551,5/23/2015,Steel,40,,0,,872
+873,Oblivion: The Black Hole,Gardaland,Operating,Bolliger & Mabillard,2015,45.4582,10.7111,3/28/2015,Steel,62.2,,2,,873
+874,Octonauts Rollercoaster Adventure,Alton Towers,Operating,Zamperla,2015,,,3/21/2015,Steel,,,0,,874
+875,Puss in Boots' Giant Journey,Universal Studios Singapore,Operating,Zamperla,2015,1.2545,103.8245,4/8/2015,Steel,,55.8,0,,875
+876,Rewind Racers,Adventure City,Operating,Gerstlauer,2015,33.8151,-117.993,6/6/2015,Steel,31.1,,0,,876
+877,T3 (roller coaster),Kentucky Kingdom,Operating,Vekoma,2015,38.1941,-85.747,4/8/1995,Steel,49.7,,5,,877
+878,Tempesto,Busch Gardens Williamsburg,Operating,Premier Rides,2015,37.2347,-76.6421,4/25/2015,Steel,62,,1,,878
+879,The C? Chulainn Coaster,Tayto Park,Operating,The Gravity Group,2015,53.5427,-6.4628,6/6/2015,Wood,55.9,105,0,,879
+880,The Oath of K?rnan,Hansa-Park,Operating,Gerstlauer,2015,54.0769,10.78,7/1/2015,Steel,78.9,239.5,1,5,880
+881,Turbulence (roller coaster),Adventureland (New York),Operating,Mack Rides,2015,40.7525,-73.4197,5/22/2015,Steel,40,,0,,881
+882,Twisted Colossus,Six Flags Magic Mountain,Operating,Rocky Mountain Construction,2015,34.4278,-118.5975,5/23/2015,Steel,57,,2,,882
+883,Wicked Cyclone,Six Flags New England,Operating,Rocky Mountain Construction,2015,42.0403,-72.6156,5/24/2015,Steel,55,,3,,883
+884,ZDT's Amusement Park,ZDT's Amusement Park,Operating,The Gravity Group,2015,,,10/17/2015,Wood,40.4,,0,,884
+885,Cobra's Curse,Busch Gardens Tampa Bay,Operating,Mack Rides,2016,,,6/17/2016,Steel,40,,0,,885
+886,Flying Aces (roller coaster),Ferrari World Abu Dhabi,Operating,Intamin,2016,,,2/24/2016,Steel,74.6,206.7,1,5,886
+887,The Flying Dinosaur,Universal Studios Japan,Operating,Bolliger & Mabillard,2016,34.6634,135.4305,3/18/2016,Steel,62,,5,,887
+888,Formu?a (Energylandia),Energylandia,Operating,Vekoma,2016,,,6/25/2016,Steel,49.2,81,3,3.8,888
+889,The Joker (Six Flags Discovery Kingdom),Six Flags Discovery Kingdom,Operating,Rocky Mountain Construction,2016,,,5/29/2016,Other,53,,3,,889
+890,Lightning Rod (roller coaster),Dollywood,Operating,Rocky Mountain Construction,2016,,,6/13/2016,Steel,73,,0,3.5,890
+891,Lost Gravity (roller coaster),Walibi Holland,Operating,Mack Rides,2016,52.4424,5.7663,3/24/2016,Steel,54.1,105,2,4.3,891
+892,Mako (roller coaster),SeaWorld Orlando,Operating,Bolliger & Mabillard,2016,28.4095,-81.4591,6/10/2016,Steel,73,,0,,892
+893,The Monster (Adventureland),Adventureland (Iowa),Operating,Gerstlauer,2016,41.6518,-93.5014,6/4/2016,Steel,65.2,133.2,5,,893
+894,Pulsar (roller coaster),Walibi Belgium,Operating,Mack Rides,2016,50.6988,4.5903,6/4/2016,Steel,62.8,147.6,0,,894
+895,Raik,Phantasialand,Operating,Vekoma,2016,50.7996,6.8828,6/30/2016,Steel,38.5,,0,,895
+896,Recoil (Wonderla Hyderabad),Other,,Vekoma,2016,,,,Steel,47,,3,,896
+897,Taron (roller coaster),Phantasialand,Operating,Intamin,2016,50.7996,6.8828,6/30/2016,Steel,72.7,98.4,0,,897
+898,The Joker (Six Flags Great Adventure),Other,,S&S – Sansei Technologies,2016,,,,Steel,38,,6,,898
+899,Tron Lightcycle Power Run,Other,,Vekoma,2016,,,6/16/2016,Steel,59.3,,0,4,899
+900,Valravn (roller coaster),Cedar Point,Operating,Bolliger & Mabillard,2016,41.4813,-82.684,5/7/2016,Steel,75,,3,,900
+901,Wildfire (Kolm?rden Wildlife Park),Kolm?rden Wildlife Park,Operating,Rocky Mountain Construction,2016,58.6653,16.4664,6/28/2016,Wood,71.5,183.7,3,4,901
+902,Dawson Duel (roller coaster),Other,Operating,Wiegand,2017,50.8483,2.9475,5/5/2017,Steel,24.9,,0,,902
+903,DC Rivals HyperCoaster,Warner Bros. Movie World,Operating,Mack Rides,2017,-27.908,153.314,9/22/2017,Steel,71.5,202.1,0,4.3,903
+904,Gold Rush (Slagharen),Attractiepark Slagharen,Operating,Gerstlauer,2017,52.6244,6.5619,4/13/2017,Steel,59,,2,,904
+905,Hydrus (roller coaster),Casino Pier,Operating,Gerstlauer,2017,39.9428,-74.0721,5/26/2017,Steel,45,,3,,905
+906,InvadR,Busch Gardens Williamsburg,Operating,Great Coasters International,2017,37.2325,-76.6486,4/7/2017,Wood,48,,0,,906
+907,Lech Coaster,Legendia,Operating,Vekoma,2017,,,7/1/2017,Steel,59,131.2,3,,907
+908,Mine Blower,Fun Spot America (Kissimmee),Operating,The Gravity Group,2017,,,6/23/2017,Wood,48.5,,1,,908
+909,Mystic Timbers,Kings Island,Operating,Great Coasters International,2017,,,4/15/2017,Wood,53,,0,,909
+910,Patriot (California's Great America),California's Great America,Operating,Bolliger & Mabillard,2017,37.3967,-121.9732,3/9/1991,Steel,45,,2,,910
+911,Pégase Express,Parc Astérix,Operating,Gerstlauer,2017,49.1336,2.5737,6/11/2017,Steel,32.3,,0,,911
+912,Red Force (roller coaster),Ferrari Land,Operating,Intamin,2017,,,4/7/2017,Steel,111.8,367.5,0,,912
+913,Star Trek: Operation Enterprise,Movie Park Germany,Operating,Mack Rides,2017,51.6223,6.9729,6/14/2017,Steel,55.9,131.2,3,,913
+914,Star Wars Hyperspace Mountain,Disneyland Park (Paris),Operating,Vekoma,2017,48.8741,2.7793,5/7/2017,Steel,44,,3,,914
+915,The Joker (Six Flags Great America),Other,,S&S – Sansei Technologies,2017,,,,Steel,38,,6,,915
+916,The Joker (Six Flags New England),Other,,S&S – Sansei Technologies,2017,,,,Steel,38,,6,,916
+917,The Joker (Six Flags Over Texas),Other,,S&S – Sansei Technologies,2017,,,,Steel,38,,6,,917
+918,Wave Breaker: The Rescue Coaster,SeaWorld San Antonio,Operating,Intamin,2017,29.4553,-98.6961,6/16/2017,Steel,44,,0,,918
+919,Adrenaline Peak,Oaks Amusement Park,Operating,Gerstlauer,2018,45.4716,-122.6623,3/24/2018,Steel,45,,3,,919
+920,Electric Eel (roller coaster),SeaWorld San Diego,Operating,Premier Rides,2018,32.765,-117.224,5/10/2018,Steel,62,,1,,920
+921,F?nix (roller coaster),Toverland,Operating,Bolliger & Mabillard,2018,51.3997,5.985,7/7/2018,Steel,59,,3,5,921
+922,HangTime (roller coaster),Knott's Berry Farm,Operating,Gerstlauer,2018,33.8448,-118.0015,5/18/2018,Steel,57,,5,,922
+923,Hyperion (roller coaster),Energylandia,Operating,Intamin,2018,,,7/14/2018,Steel,88.2,252.6,1,4.8,923
+924,Icon (roller coaster),Blackpool Pleasure Beach,Operating,Mack Rides,2018,53.7903,-3.0556,5/25/2018,Steel,52.8,,1,4.3,924
+925,Merlin's Mayhem,Dutch Wonderland,Operating,S&S – Sansei Technologies,2018,40.0287,-76.2186,4/28/2018,Steel,,,0,,925
+926,RailBlazer,California's Great America,Operating,Rocky Mountain Construction,2018,37.3951,-121.9737,6/14/2018,Steel,52,,3,,926
+927,Slinky Dog Dash,Disney's Hollywood Studios,Operating,Mack Rides,2018,28.3594,-81.5607,6/30/2018,Steel,40,,0,,927
+928,Steel Vengeance,Cedar Point,Operating,Rocky Mountain Construction,2018,41.4862,-82.6933,5/5/2018,Steel,74,,4,,928
+929,Tantrum (roller coaster),Six Flags Darien Lake,Operating,Gerstlauer,2018,42.9294,-78.3849,5/25/2018,Steel,52.8,,3,,929
+930,Tiki-Waka (roller coaster),Walibi Belgium,Operating,Gerstlauer,2018,50.6971,4.5871,4/7/2018,Steel,34.2,,0,,930
+931,Time Traveler (roller coaster),Silver Dollar City,Operating,Mack Rides,2018,36.669,-93.3377,3/14/2018,Steel,50.3,,3,,931
+932,Twisted Timbers,Kings Dominion,Operating,Rocky Mountain Construction,2018,,,3/24/2018,Steel,54,,3,,932
+933,Valkyria (roller coaster),Liseberg,Operating,Bolliger & Mabillard,2018,57.6932,11.9953,8/10/2018,Steel,65.2,,3,,933
+934,Wicker Man (roller coaster),Alton Towers,Operating,Great Coasters International,2018,52.9889,-1.8886,3/20/2018,Wood,43.6,,0,,934
+935,Wonder Woman Coaster,Six Flags Mexico,Operating,S&S – Sansei Technologies,2018,19.2935,-99.2058,6/1/2018,Steel,38,,6,,935
+936,Wonder Woman Golden Lasso Coaster,Six Flags Fiesta Texas,Operating,Rocky Mountain Construction,2018,29.5951,-98.6085,5/12/2018,Steel,52,,3,,936
+937,Copperhead Strike,Carowinds,Operating,Mack Rides GmbH & Co KG,2019,35.1011,-80.9426,3/23/2019,Steel,50,,5,,937
+938,Desmo Race,Other,Operating,Maurer AG,2019,44.3389,12.2636,7/25/2019,Steel,49.7,,0,1.2,938
+939,Dragonflier,Dollywood,Operating,Vekoma,2019,35.7977,-83.5312,5/10/2019,Steel,46.6,,0,3.5,939
+940,Dynamite (Freizeitpark Plohn),Freizeitpark Plohn,,Mack Rides,2019,,,5/18/2019,Steel,62.1,144.4,3,,940
+941,Fury (roller coaster),Bobbejaanland,Operating,Gerstlauer,2019,51.1993,4.909,6/24/2019,Steel,66.2,141.1,2,,941
+942,Hagrid's Magical Creatures Motorbike Adventure,Universal's Islands of Adventure,Operating,Intamin,2019,28.4298,-81.5859,6/13/2019,Steel,50,,0,,942
+943,Hurricane (Fun Spot America),"Orlando, FloridaKissimmee, FloridaFayetteville, GeorgiaUnited States",Operating,,2019,28.3303,-81.5147,,Other,,,0,,943
+944,Kentucky Flyer,Kentucky Kingdom,Operating,Gravitykraft Corporation,2019,38.1943,-85.7443,4/28/2019,Wood,35,,0,,944
+945,Maxx Force,Six Flags Great America,Operating,S&S - Sansei Technologies,2019,,,7/4/2019,Steel,78,,5,4.5,945
+946,Mystic (roller coaster),Walibi Rhône-Alpes,Operating,Gerstlauer,2019,45.62,5.5715,5/30/2019,Steel,52.8,,3,,946
+947,Nickelodeon Slime Streak,Nickelodeon Universe,Operating,Chance Rides,2019,40.8061,-74.0706,10/25/2019,Steel,37,,0,2.5,947
+948,Panic Coaster – Back Daaan,Tokyo Dome City Attractions,Operating,Gerstlauer,2019,,,3/23/2019,Steel,18.6,,0,,948
+949,Runaway Tram,Morey's Piers,Operating,Zierer,2019,38.9894,-74.8034,8/9/2019,Steel,28.6,,0,,949
+950,Steel Curtain (roller coaster),Kennywood,Operating,S&S - Sansei Technologies,2019,40.3892,-79.8665,7/13/2019,Steel,75,,9,,950
+951,Taiga (roller coaster),Linnanm?ki,Operating,Intamin,2019,60.1885,24.9391,6/18/2019,Steel,65.9,,4,5,951
+952,Tigris (roller coaster),Busch Gardens Tampa,Operating,Premier Rides,2019,28.0379,-82.4249,4/19/2019,Steel,62,,1,,952
+953,TMNT Shellraiser,Nickelodeon Universe,Operating,Gerstlauer,2019,40.8066,-74.0712,10/25/2019,Steel,62.1,,7,,953
+954,Yukon Striker,Canada's Wonderland,Operating,Bolliger & Mabillard,2019,43.8402,-79.543,5/3/2019,Steel,80.8,223.1,4,,954
+955,Zadra (roller coaster),Energylandia,Operating,Rocky Mountain Construction,2019,50.0019,19.4031,8/22/2019,Other,75.2,206,3,4,955
+956,Candymonium,Hersheypark,Operating,Bolliger & Mabillard,2020,40.2863,-76.659,7/3/2020,Steel,76,,0,,956
+957,F.L.Y. (roller coaster),Phantasialand,Operating,Vekoma,2020,50.7999,6.8792,,Steel,48.5,,2,,957
+958,Max & Moritz (roller coaster),Efteling,Operating,Mack Rides,2020,51.6481,5.0474,6/20/2020,Steel,22.4,19.7,0,,958
+959,Objectif Mars,Futuroscope,Operating,Intamin,2020,46.6718,0.3703,6/13/2020,Steel,34.2,,0,,959
+960,Orion (roller coaster),Kings Island,Operating,Bolliger & Mabillard,2020,39.3427,-84.2627,7/2/2020,Steel,91,,0,,960
+961,Pitts Special (roller coaster),PowerPark,Operating,Gerstlauer,2020,63.2307,22.8545,6/24/2020,Steel,62.1,142.7,0,4.5,961
+962,Sandy's Blasting Bronco,Nickelodeon Universe,Operating,Intamin,2020,40.8056,-74.071,10/1/2020,Steel,47.8,,4,,962
+963,Texas Stingray,SeaWorld San Antonio,Operating,Great Coasters International,2020,29.4524,-98.699,2/22/2020,Wood,55,,0,,963
+964,Wakala (roller coaster),Bellewaerde,Operating,Gerstlauer,2020,50.849,2.9475,7/1/2020,Steel,31.1,,0,,964
+965,West Coast Racers,Six Flags Magic Mountain,Operating,Premier Rides,2020,34.4217,-118.5992,1/9/2020,Steel,55,,4,,965
+966,Abyssus,Energylandia,Operating,Vekoma,2021,49.9992,19.4011,7/14/2021,Steel,62.1,,4,4.5,966
+967,Dragon Slayer (roller coaster),Adventureland (Iowa),Operating,S&S - Sansei Technologies,2021,41.651,-93.5024,5/29/2021,Steel,34,,0,,967
+968,Jersey Devil Coaster,Six Flags Great Adventure,Operating,Rocky Mountain Construction,2021,40.1377,-74.4405,6/13/2021,Steel,58,,3,,968
+969,Kondaa,Walibi Belgium,Operating,Intamin,2021,50.6977,4.585,5/8/2021,Steel,70.2,,0,,969
+970,Krampus Expédition,Nigloland,Operating,Mack Rides,2021,-48.2617,4.6142,6/12/2021,Steel,49,,0,3.5,970
+971,Looping Star (Clacton Pier),Clacton Pier,Operating,Pinfari,2021,51.7864,-1.155,10/23/2021,Steel,,36.1,1,,971
+972,Monster (Gr?na Lund),Gr?na Lund,Operating,Bolliger & Mabillard,2021,59.3239,18.0961,6/2/2021,Steel,55.9,,3,4.5,972
+973,Steel Taipan,Dreamworld,Under construction,Mack Rides,2021,-27.8623,153.3152,1/1/2021,Steel,65.2,,4,3.8,973
+974,Storm Chaser (Paultons Park),Paultons Park,Operating,Mack Rides,2021,50.949,-1.5505,4/12/2021,Steel,,,0,,974
+975,Stunt Pilot (roller coaster),Silverwood Theme Park,Operating,Rocky Mountain Construction,2021,47.9065,-116.708,5/29/2021,Steel,52,,3,,975
+976,The Ride to Happiness,Plopsaland De Panne,Operating,Mack Rides,2021,51.081,2.5989,7/1/2021,Steel,55.9,,6,,976
+977,VelociCoaster,Universal's Islands of Adventure,Operating,Intamin,2021,28.4713,-81.472,6/10/2021,Steel,70,,4,,977
+978,Aquaman: Power Wave,Six Flags Over Texas,Under construction,Mack Rides,2022,32.756,-97.071,1/1/2022,Steel,62.1,,0,,978
+979,ArieForce One,Fun Spot America Atlanta,Under construction,Rocky Mountain Construction,2022,,,1/1/2022,Steel,64,,4,3.75,979
+980,Defiance (roller coaster),Glenwood Caverns Adventure Park,Under construction,Gerstlauer,2022,,,1/1/2022,Steel,56,,2,,980
+981,Dr. Diabolical’s Cliffhanger,Six Flags Fiesta Texas,Under construction,Bolliger & Mabillard,2022,,,1/1/2022,Steel,60,,2,,981
+982,Emperor (roller coaster),SeaWorld San Diego,Under construction,Bolliger & Mabillard,2022,32.764,-117.2224,3/1/2022,Steel,63,,4,,982
+983,F?nix (roller coaster),F?rup Sommerland,Under construction,Vekoma,2022,,,,Steel,59,,3,4.1,983
+984,Guardians of the Galaxy: Cosmic Rewind,Epcot,Under construction,Vekoma,2022,,,1/1/2022,Steel,,,0,,984
+985,Ice Breaker (roller coaster),SeaWorld Orlando,Under construction,Premier Rides,2022,28.4088,-81.4633,2/1/2022,Steel,52,,0,,985
+986,Leviathan (Sea World),Sea World,Under construction,Martin & Vleminckx,2022,-27.9574,153.4263,1/1/2022,Wood,49.7,105,0,,986
+987,Pantheon (roller coaster),Busch Gardens Williamsburg,Under construction,Intamin,2022,37.2339,-76.6426,1/1/2022,Steel,73,,2,,987
+988,Tumbili,Kings Dominion,Under construction,S&S – Sansei Technologies,2022,,,,Steel,34,,0,,988
+989,Wonder Woman Flight of Courage,Six Flags Magic Mountain,Under construction,Rocky Mountain Construction,2022,,,1/1/2022,Steel,58,,3,,989
